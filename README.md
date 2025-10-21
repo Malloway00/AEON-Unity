@@ -1,7 +1,15 @@
 # ÆON — Analytical Engine for Origin and Narrative
 **Linguistic Simulation Engine • Unity 6 Build**  
 © 2025 Devin Barrett — All Rights Reserved  
-> *“Built to Remember.”*
+> *“Built to Remember.”*  
+
+_A Unity-based simulation engine modeling linguistic evolution across generations._
+
+---
+
+## 🎬 Quick Preview
+![Showcase](ShowcaseIMG_01.png)
+*A glimpse of ÆON’s simulation environment and interface.*
 
 ---
 
@@ -38,22 +46,24 @@ Each module communicates through a **Symbolic Router** and **Tag Database**, all
 ÆON operates with both **online and offline intelligence**:
 
 - **Local LLM Backend:** integrates with *koboldcpp* models (.gguf) through a lightweight router.  
+  _[Local model placeholder link — coming soon]_  
 - **Stable Diffusion Backend:** local image generation for symbolic, academic, or illustrative outputs.  
+  _[Local SD model placeholder link — coming soon]_  
 - **Fallback System:** automatic switch to online LLMs (OpenRouter, etc.) when offline backends fail.  
 - **All subprocesses** are safely managed and logged through dedicated thread handlers.
 
 ---
 
 ## 🎨 Interface & Experience
-- **Professional splash screen and golden seal branding**
-- **Cross-platform builds** for Windows, macOS, and Linux
+- **Professional splash screen and golden seal branding**  
+- **Cross-platform builds** for Windows, macOS, and Linux  
 - **Thread-safe subprocess management**
-- **VRAM detection and backend health verification**
-- **Automatic log and image archive structure:**
-      Documents/AEON Logs/{yyyyMMdd}/
-      ├── logs/
-      ├── images/
-      └── debug/
+<pre>
+Documents/AEON Logs/{yyyyMMdd}/
+├── logs/
+├── images/
+└── debug/
+</pre>
 
 
 ---
@@ -87,7 +97,7 @@ Each module communicates through a **Symbolic Router** and **Tag Database**, all
 | Local LLM + SD Integration | ✅ Tested |
 | Thread Safety & Error Handling | ✅ Verified |
 | Multi-Platform Packaging | ✅ Ready |
-| Itch.io Release | ⏳ Pending upload limit approval |
+| Itch.io Release | 🕓 Pending upload limit approval |
 
 ---
 
@@ -113,3 +123,5 @@ Unity • AI Systems • Historical Linguistics • Digital Heritage
 - Itch.io Page — *(pending approval)*  
 - Official Site — *(coming soon)*  
 - Documentation Portal — *(in development)*
+- **VRAM detection and backend health verification**  
+- **Automatic log and image archive structure:**
