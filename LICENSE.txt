@@ -58,4 +58,10 @@ CONTACT
 ────────────────────────────
 For licensing, partnerships, or cultural access requests:
 **Devin Barrett**  
-[aeonlinguistic.engine@gmail.com.]
+aeonlinguistic.engine@gmail.com
+
+────────────────────────────
+DISCLAIMER
+────────────────────────────
+This license grants rights to use ÆON as described above.  
+It does not transfer ownership, source code, or intellectual property rights to the user.
