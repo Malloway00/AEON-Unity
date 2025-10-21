@@ -9,7 +9,7 @@
 ÆON is a fully interactive **linguistic simulation system** designed to model how languages evolve, fracture, and preserve memory across time.  
 It combines **academic linguistics**, **AI integration**, and **Unity-based visualization** to simulate the evolution of phonology, morphology, syntax, and cultural context across generations.
 
-ÆON treats language as a living system — one shaped by trauma, ritual, diaspora, and environmental change.  
+ÆON treats language as a living system; one shaped by trauma, ritual, diaspora, and environmental change.  
 It serves as both a **research-grade tool** and an **experiential simulation engine** for creative and heritage applications.
 
 ---
@@ -76,7 +76,7 @@ Each module communicates through a **Symbolic Router** and **Tag Database**, all
 - **Transparency:** full access to modules, no artificial restrictions.  
 - **Technical Excellence:** professional-grade systems across all backends.
 
-ÆON is not just a product — it’s a **continuing effort to preserve linguistic memory through technology**.
+ÆON is not just a product; it’s a **continuing effort to preserve linguistic memory through technology**.
 
 ---
 
@@ -97,7 +97,7 @@ Each module communicates through a **Symbolic Router** and **Tag Database**, all
 This repository and its contents may not be redistributed, modified, or resold without written permission.  
 Educational and heritage organizations may request free access under the **ÆON Cultural License**.
 
-For partnership inquiries or cultural support access, contact **[insert your preferred email or site link]**.
+For partnership inquiries or cultural support access, contact **aeonlinguistic.engine@gmail.com**.
 
 ---
 
@@ -105,7 +105,7 @@ For partnership inquiries or cultural support access, contact **[insert your pre
 **Devin Barrett**  
 Designer, Developer, and Architect of ÆON  
 Unity • AI Systems • Historical Linguistics • Digital Heritage  
-> “Languages remember us when we remember them.”
+> “Built to Remember.”
 
 ---
 
