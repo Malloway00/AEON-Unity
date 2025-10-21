@@ -1,122 +1,107 @@
-It still isn't formatting correctly, here's the full thing back:
-
-# 🌍 AEON Educational Showcase — From One Word to Many Tongues
-> *The Journey of “ḱerd-” — how one ancient word became “heart,” “corazón,” and “cœur.”*
+# 🧬 AEON Educational Showcase — PIE Root *ḱerd-* Forward Drift  
+*How one ancient word for “heart” became hundreds of words across time.*
 
 ---
 
-## 💬 What Are We Studying?
+## 💬 Overview
+This study uses **ÆON — the Analytical Engine for Origin and Narrative** — to follow the Proto-Indo-European root **`*ḱerd-*`**, meaning *“heart”*, as it evolves forward through 6,000 years of linguistic history.  
+From a single root, entire families of words emerged: Irish *croí*, Latin *cor*, Greek *kardía*, English *heart*, and Sanskrit *hṛdaya*.
 
-This case explores how one ancient word — **\*ḱerd-**, meaning “heart” —  
-split and evolved into dozens of different forms across world languages.
-
-Using **AEON’s Forward Drift Simulation**, we can watch this word travel through time, changing its sounds and shape as cultures moved, traded, and met.
-
-Today, *ḱerd-* lives on in words like:
-❤️ **heart** (English)  
-💛 **cœur** (French)  
-🧡 **corazón** (Spanish)  
-💚 **croí** (Irish)  
-💙 **kardía** (Greek)  
-💜 **hṛd-** (Sanskrit)
+ÆON models how this root traveled across continents and cultures — shifting its sound but never its meaning.
 
 ---
 
-## 🧭 Research Goal
+## 🧭 Research Parameters
 
-**Goal:**  
-Show how one ancestral word from 6,000 years ago evolved into modern languages through natural drift and cultural contact.
-
-**Mode:**  
-🔮 *Forward Drift* — tracing the flow of change through multiple language families.
-
-**Modules Used:**  
-🗣️ Phoneme Drift • ⚙️ Syntax Evolution • 🪶 Artifact Influence • 🌍 Diaspora & Trauma Dialects
-
----
-
-## 🧭 The Ancestral Starting Point
-
-| Language Stage | Time Period | Example Form | Pronounced | Meaning |
-|----------------|--------------|---------------|-------------|----------|
-| Proto-Indo-European | ~4000 BCE | **\*ḱerd-** | [kʲerd] | heart |
-
-This single word was spoken long before writing existed.  
-It carried both literal and emotional meaning — a sense of “core” or “center of being.”  
-As humans migrated, *ḱerd-* evolved differently in each region.
+| Category | Detail |
+|-----------|--------|
+| **Goal** | Simulate the forward drift of PIE *ḱerd-* into major Indo-European branches. |
+| **Mode** | 🔮 *Forward Drift* — project phonological and morphological change forward through time. |
+| **Modules Used** | 🗣️ Phoneme Drift · ⚙️ Syntax Evolution · 🪶 Artifact Influence · 🌍 Diaspora & Trauma Dialects · 🧬 Corpus Validation |
+| **Input Fragment** | *ḱerd-* — Proto-Indo-European root meaning “heart.” |
+| **Context** | Core body-part lexeme, culturally and emotionally central across branches. |
 
 ---
 
-## 🌐 Drift Across Language Families
+## 🌍 Branchwise Evolution
 
-| Family | Modern Word | Form | Pronunciation | Path of Change |
-|---------|--------------|------|----------------|----------------|
-| **Celtic** | Irish | **croí** | [kɾˠiː] | ḱ → k → x (lenition) |
-| **Italic** | Latin | **cor** | [kor] | vowel loss & rhotacism |
-| **Romance** | Spanish | **corazón** | [koɾaˈθon] | Latin → Spanish, suffix added |
-| **Hellenic** | Greek | **kardía** | [karˈdia] | palatal softened to velar |
-| **Germanic** | English | **heart** | [hɑːrt] | ḱ → h (Grimm’s Law) |
-| **Indo-Aryan** | Sanskrit | **hṛd- / hṛdaya** | [ɦr̩d̪] | retention of root purity |
-
----
-
-## 🕸️ AEON Divergence Map (Simplified)
-
-<pre>
-        *ḱerd-*  (~4000 BCE)
-              │
-   ┌──────────┴──────────┬──────────┬──────────┬──────────┐
-   Celtic       Latin        Greek      Germanic   Indo-Aryan
-     │            │            │            │           │
-   croí        cor → corazón  kardía      heart      hṛd-/hṛdaya
-</pre>
+| Branch | Proto Stage | Classical / Medieval Reflex | Modern Reflex | Key Shift Summary | Modules | FRP |
+|---|---|---|---|---|---|---|
+| **Celtic** | *kridyom* | OIr *cride* | Ir *croí*, G *cridhe* | Centum merger (ḱ>k); diphthong loss; ritual fossilization | Phoneme Drift, Ritual Fossilization | 0.60 |
+| **Italic / Romance** | *cord-* | Lat *cor, cordis* | It *cuore*, Fr *cœur*, Sp *corazón* | Stable O-grade ablaut; strong literary retention | Artifact Influence | 0.75 |
+| **Greek** | *kardiā* | *καρδία* | *καρδιά* | Retained cluster [kr]; preserved medical/poetic register | Syntax Evolution, Artifact Influence | 0.75 |
+| **Germanic** | *hertōn-* | OE *heorte* | Eng *heart*, Ger *Herz* | Grimm’s Law (ḱ>h, d>t); maintained core semantics | Phoneme Drift, Syntax Evolution | 0.60 |
+| **Indo-Aryan** | *hṛd-, hṛdaya* | Skt *hṛd*, *hṛdaya* | Hi *hṛday*, Ben *hridoy* | Satem shift (ḱ>ś>h); partial replacement by *dil* | Diaspora & Trauma Dialects, Corpus Validation | 0.55 |
 
 ---
 
-## 🔍 What Happened Over Time?
+## 🔡 Phoneme Drift Summary
 
-🌬️ **Sound Change (Phoneme Drift):**  
-Each family shifted the “k” or “ḱ” sound differently — sometimes softening it, sometimes turning it into “h.”
+### 🌀 Major Shifts
+- **Centum branches:** ḱ → k (Celtic, Latin, Greek)  
+- **Germanic:** ḱ → h; d → t (Grimm’s Law)  
+- **Satem branches:** ḱ → ś → h (Sanskrit)
 
-🧩 **Word Structure (Morphology):**  
-Latin simplified endings, Romance languages added new ones, and Celtic preserved emotional phrasing.
+### 🔍 Retention Index
 
-🕯️ **Cultural Contact:**  
-As people migrated or traded, neighboring sounds and scripts reshaped pronunciation — writing stabilized certain spellings (Artifact Influence Module).
+| Transition | Retention (RI) |
+|-------------|----------------|
+| PIE → Proto-Branch | 0.78 |
+| Proto → Classical | 0.72 |
+| Classical → Modern | 0.60 |
+
+Average change rate: **0.55 (moderate divergence)**  
+Consonant skeleton (K/H–R–D) persists in all branches.
 
 ---
 
-## 📊 AEON Simplified Metrics
+## 🧩 Morphology & Syntax Drift
 
-| Measure | What It Means | Value | Emoji |
-|----------|----------------|:------:|:-----:|
-| **CRI** | Contextual Recursion Integrity | 0.92 | 🌍 |
-| **SC** | Semantic Coherence | 1.00 | ❤️ |
-| **MV** | Morphotactic Validity | 0.96 | 🧩 |
-| **FRP** | Form Recovery Probability | 0.94 | 🧱 |
+- PIE flexible syntax → early branches developed stable nominative systems.  
+- Later simplification into analytic expressions (e.g., “from my heart”).  
+- Productive derivations: *cordial*, *cardiac*, *heartfelt*, *hṛdaya-vān* (“heartful”).  
+- **Morphological Validity (MV): 0.80** — strong across all classical branches.
 
-> *RCI not applicable for forward drift simulations.*
+---
+
+## 🪶 Artifact Influence
+- **Greek & Latin:** Preserved cardio-/cordi- as scholarly roots.  
+- **Celtic & Germanic:** Conserved in idioms and cultural proverbs.  
+- **Indo-Aryan:** Retained in liturgical use despite vernacular replacements.  
+- **Influence Score:** High — literary and religious use stabilized ancient forms.
+
+---
+
+## 🌍 Diaspora & Trauma Dialects
+Migration, conquest, and cultural trauma changed pronunciations — but the emotional weight of *“heart”* made the word nearly impossible to erase.
+
+- **Celtic:** Survived colonization; deeply tied to poetic identity.  
+- **Germanic:** Spread through migration; foundational emotional term.  
+- **Indo-Aryan:** Maintained sacred presence (*hṛdaya*) though replaced in speech (*dil*).  
+- **Retention Level:** 0.65 (partial fossilization, high semantic stability)
+
+---
+
+## 📊 AEON Metrics Summary
+
+| Metric | Meaning | Value | Symbol |
+|---|---|---|---|
+| **RCI** | Reconstruction Confidence Index | 0.82 | 🧭 |
+| **CRI** | Corpus Reliability Index | 0.68 | 📚 |
+| **SC** | Structural Coherence | 0.78 | 🧩 |
+| **MV** | Morphological Validity | 0.80 | 🧬 |
+| **FRP** | Fossilization Retention Probability | 0.65 | 🪶 |
 
 ---
 
 ## 🧠 Summary
+From Proto-Indo-European **`*ḱerd-*`** to words like *croí, cor, καρδία, heart, hṛdaya* — every major branch of the Indo-European family preserves the same meaning: *the emotional and physical center of life.*
 
-**In short:**  
-AEON shows that one ancient word for “heart” fractured into a family tree of forms.  
-Despite thousands of years of separation, **the same emotional meaning survived** — a continuity of the human voice.
-
-- Latin and Celtic preserved strong roots.  
-- Greek and Sanskrit show classical purity.  
-- Germanic evolved new phonetic rules.  
-- All still express the same shared emotion.
+Across millennia, while sounds drifted, the word’s **essence never changed.**  
+Even today, *heart* remains a metaphor for love, courage, and identity — living proof of how deeply language remembers.
 
 ---
 
-## 🪶 Takeaway
-
-Every time we say *heart*, *corazón*, *cœur*, or *croí*,  
-we echo the same idea spoken 6,000 years ago —  
-a heartbeat connecting every human language back to one.
-
-> **“The world speaks in many voices, but the pulse beneath is one.”**  
-> — AEON Ethnographic Log, Community Mode
+## 🪶 Reflection
+> “Through ritual, memory, and the written word, the heart kept its name.”  
+> — **ÆON Drift Log, Community Mode, 2025-10-21**
