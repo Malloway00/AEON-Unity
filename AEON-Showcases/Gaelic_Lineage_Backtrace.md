@@ -1,4 +1,4 @@
-[Custom Model] # AEON_Case_Report (ShowcaseMarkdown)
+# AEON_Case_Report (ShowcaseMarkdown)
 Case: Reverse_Chronology | Target: Irish → Proto-Celtic  
 Input fragment: “Mo chroí” (‘my heart’) | Context: ritual/emotional address  
 Modules engaged: 04_Phoneme Drift | 05_Morphology Chain | 08_Ritual Fossilization | 13_Lost Word Backtrace | 17_Corpus Validation  
