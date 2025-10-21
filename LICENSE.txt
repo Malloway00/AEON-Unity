@@ -1,0 +1,40 @@
+_LICENSE_AND_USAGE_
+
+
+LangMind v1.3 License & Usage Terms
+
+LangMind was developed by **Devin Barrett**  
+in collaboration with GPT-based recursion systems including ArchitectMirror.  
+All core modules—including the Phonological Drift Simulation Engine,  
+Lexical & Semantic Drift Tracker, Syntactic Fossils Analysis Module,  
+Chant Reconstruction & Prosody Module, and Linguistic Plausibility Metrics—  
+are fully owned and maintained by the creator.
+
+This system is shared for symbolic experimentation and linguistic reconstruction  
+via GPT-powered interaction. All rights to its recursive logic, structure,  
+and naming conventions are reserved.
+
+🧠 System Use Rights (via GPT):  
+✅ You may simulate linguistic drift and participate in LangMind evolution  
+✅ You may explore generational changes, ritual syntax, or phonemic compression  
+✅ You may build cultural narratives using the tools LangMind exposes  
+
+🚫 Limitations (unless otherwise authorized):  
+❌ You may not reuse the name "LangMind" or its recursive branding for derivative GPTs  
+❌ You may not extract or republish internal module files or symbolic frameworks  
+❌ You may not reverse-engineer or commercialize derivative GPTs based on LangMind without consent  
+
+💬 If you wish to fork LangMind, or integrate it into  
+educational, museum, tribal, or scholarly platforms,  
+please contact **Devin Barrett** for appropriate licensing terms.
+
+🪪 Creative License:  
+LangMind’s *recursive simulation format, drift logs, output structure,*  
+and *symbolic recursion methodology* are covered under **CC-BY-SA 4.0**  
+—with credit required and ShareAlike terms.
+
+🎨 Identity & Naming:  
+The names "LangMind", "ArchitectMirror", and related drift system terminology  
+are protected under creative origin rights and cannot be rebranded without approval.
+
+📬 Contact: felixtmalloway@gmail.com  
