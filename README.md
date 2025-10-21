@@ -8,7 +8,7 @@ _A Unity-based simulation engine modeling linguistic evolution across generation
 ---
 
 ## 🎬 Quick Preview
-![Showcase](ShowcaseIMG_01.png)
+![Showcase](AEON-Showcases/assets/screenshots/ShowcaseIMG_01.png)
 *A glimpse of ÆON’s simulation environment and interface.*
 
 ---
@@ -17,7 +17,7 @@ _A Unity-based simulation engine modeling linguistic evolution across generation
 ÆON is a fully interactive **linguistic simulation system** designed to model how languages evolve, fracture, and preserve memory across time.  
 It combines **academic linguistics**, **AI integration**, and **Unity-based visualization** to simulate the evolution of phonology, morphology, syntax, and cultural context across generations.
 
-ÆON treats language as a living system; one shaped by trauma, ritual, diaspora, and environmental change.  
+ÆON treats language as a living system—one shaped by trauma, ritual, diaspora, and environmental change.  
 It serves as both a **research-grade tool** and an **experiential simulation engine** for creative and heritage applications.
 
 ---
@@ -45,7 +45,7 @@ Each module communicates through a **Symbolic Router** and **Tag Database**, all
 ## 🧠 AI & Local Integration
 ÆON operates with both **online and offline intelligence**:
 
-- **Local LLM Backend:** integrates with *koboldcpp* models (.gguf) through a lightweight router.  
+- **Local LLM Backend:** integrates with *koboldcpp* models (`.gguf`) through a lightweight router.  
   _[Local model placeholder link — coming soon]_  
 - **Stable Diffusion Backend:** local image generation for symbolic, academic, or illustrative outputs.  
   _[Local SD model placeholder link — coming soon]_  
@@ -58,13 +58,13 @@ Each module communicates through a **Symbolic Router** and **Tag Database**, all
 - **Professional splash screen and golden seal branding**  
 - **Cross-platform builds** for Windows, macOS, and Linux  
 - **Thread-safe subprocess management**
+- **Automatic log and image archive structure:**
 <pre>
 Documents/AEON Logs/{yyyyMMdd}/
 ├── logs/
 ├── images/
 └── debug/
 </pre>
-
 
 ---
 
@@ -86,7 +86,7 @@ Documents/AEON Logs/{yyyyMMdd}/
 - **Responsible Stewardship:** Core systems remain protected to preserve integrity and prevent misuse, while linguistic results and methodologies remain accessible.  
 - **Technical Integrity:** Every build is maintained to professional and cultural standards of accuracy.
 
-ÆON is not just a product; it’s a **continuing effort to preserve linguistic memory through technology**.
+ÆON is not just a product—it’s a **continuing effort to preserve linguistic memory through technology.**
 
 ---
 
@@ -98,6 +98,16 @@ Documents/AEON Logs/{yyyyMMdd}/
 | Thread Safety & Error Handling | ✅ Verified |
 | Multi-Platform Packaging | ✅ Ready |
 | Itch.io Release | 🕓 Pending upload limit approval |
+
+---
+
+## 🎨 Visual Identity
+Key artwork and UI branding assets are stored under **`/AEON-Branding/`**, including:
+- **Name_v2.png** — Modern logotype version  
+- **V5.png** — Golden seal and visual emblem  
+- **LoadingScreen.png** — Official splash artwork  
+
+These assets form ÆON’s visual language and are used across public releases, trailers, and documentation.
 
 ---
 
@@ -123,5 +133,3 @@ Unity • AI Systems • Historical Linguistics • Digital Heritage
 - Itch.io Page — *(pending approval)*  
 - Official Site — *(coming soon)*  
 - Documentation Portal — *(in development)*
-- **VRAM detection and backend health verification**  
-- **Automatic log and image archive structure:**
