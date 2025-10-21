@@ -8,7 +8,7 @@ _A Unity-based simulation engine modeling linguistic evolution across generation
 ---
 
 ## 🎬 Quick Preview
-![Showcase](AEON-Showcases/assets/screenshots/ShowcaseIMG_01.png)
+<img src="AEON-Showcases/assets/screenshots/ShowcaseIMG_01.png" width="720" alt="ÆON Simulation Interface"/>
 *A glimpse of ÆON’s simulation environment and interface.*
 
 ---
