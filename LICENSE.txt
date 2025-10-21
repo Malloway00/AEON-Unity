@@ -1,40 +1,61 @@
 _LICENSE_AND_USAGE_
 
+ÆON v1.5 — License & Usage Terms  
+© 2025 Devin Barrett. All rights reserved.
 
-LangMind v1.3 License & Usage Terms
+ÆON (Analytical Engine for Origin and Narrative) was created and developed by **Devin Barrett**, incorporating proprietary recursive linguistic logic and AI-driven modules.  
+All internal systems—including but not limited to the Phonological Drift Engine, Morphology Chain Logic, Syntactic Evolution Ruleset, Ritual Fossilization Module, and associated symbolic routing—remain the intellectual property of the creator.
 
-LangMind was developed by **Devin Barrett**  
-in collaboration with GPT-based recursion systems including ArchitectMirror.  
-All core modules—including the Phonological Drift Simulation Engine,  
-Lexical & Semantic Drift Tracker, Syntactic Fossils Analysis Module,  
-Chant Reconstruction & Prosody Module, and Linguistic Plausibility Metrics—  
-are fully owned and maintained by the creator.
+────────────────────────────
+SYSTEM USE RIGHTS
+────────────────────────────
+You are granted a non-exclusive, revocable license to:
+✅ Use ÆON for linguistic simulation, reconstruction, and educational study  
+✅ Create and export data, reports, and generated materials for personal, academic, or creative purposes  
+✅ Publish outputs or research results derived from ÆON, provided proper attribution is given  
 
-This system is shared for symbolic experimentation and linguistic reconstruction  
-via GPT-powered interaction. All rights to its recursive logic, structure,  
-and naming conventions are reserved.
+Attribution format:
+> “Generated using ÆON — Analytical Engine for Origin and Narrative (© Devin Barrett, 2025)”
 
-🧠 System Use Rights (via GPT):  
-✅ You may simulate linguistic drift and participate in LangMind evolution  
-✅ You may explore generational changes, ritual syntax, or phonemic compression  
-✅ You may build cultural narratives using the tools LangMind exposes  
+────────────────────────────
+LIMITATIONS
+────────────────────────────
+Unless specifically authorized in writing:
+❌ You may not redistribute, resell, or re-upload ÆON or its module files  
+❌ You may not extract or repackage internal assets, code, or symbolic frameworks  
+❌ You may not train or commercialize derivative LLMs, AI systems, or software using ÆON’s structure, data, or naming conventions  
+❌ You may not rebrand or rename the system, including its seals, module terminology, or “Built to Remember” identity
 
-🚫 Limitations (unless otherwise authorized):  
-❌ You may not reuse the name "LangMind" or its recursive branding for derivative GPTs  
-❌ You may not extract or republish internal module files or symbolic frameworks  
-❌ You may not reverse-engineer or commercialize derivative GPTs based on LangMind without consent  
+────────────────────────────
+PERMITTED INTEGRATIONS
+────────────────────────────
+Integration into educational, museum, heritage, or tribal platforms is encouraged with prior coordination.  
+For community or institutional licensing, contact **Devin Barrett** for a Cultural or Institutional License Agreement.
 
-💬 If you wish to fork LangMind, or integrate it into  
-educational, museum, tribal, or scholarly platforms,  
-please contact **Devin Barrett** for appropriate licensing terms.
+────────────────────────────
+CREATIVE LICENSE
+────────────────────────────
+ÆON’s *simulation format, drift logs, output structures, and recursion methodology* are distributed under the  
+**Creative Commons Attribution–ShareAlike 4.0 (CC-BY-SA 4.0)** license for non-commercial derivative works.  
+Credit is required, and derivative works must maintain the same license conditions.
 
-🪪 Creative License:  
-LangMind’s *recursive simulation format, drift logs, output structure,*  
-and *symbolic recursion methodology* are covered under **CC-BY-SA 4.0**  
-—with credit required and ShareAlike terms.
+────────────────────────────
+IDENTITY & BRANDING
+────────────────────────────
+The names **“ÆON”**, **“ArchitectMirror”**, **“Built to Remember”**, and related linguistic system terminology  
+are protected creative identifiers and may not be used in branding or derivative software titles without permission.
 
-🎨 Identity & Naming:  
-The names "LangMind", "ArchitectMirror", and related drift system terminology  
-are protected under creative origin rights and cannot be rebranded without approval.
+────────────────────────────
+COMMERCIAL & ETHICAL MODEL
+────────────────────────────
+ÆON follows an ethical pricing and access model:
+- **Commercial License** — Standard one-time purchase for full access  
+- **Institutional License** — Subscription with support and curriculum integration  
+- **Cultural License** — Free access for Indigenous and tribal communities for heritage recovery
 
-📬 Contact: felixtmalloway@gmail.com  
+────────────────────────────
+CONTACT
+────────────────────────────
+For licensing, partnerships, or cultural access requests:
+**Devin Barrett**  
+[aeonlinguistic.engine@gmail.com.]
