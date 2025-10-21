@@ -80,11 +80,11 @@ Documents/AEON Logs/{yyyyMMdd}/
 ---
 
 ## 🌍 Core Values & Philosophy
-- **Cultural Preservation:** language recovery is a human right.  
-- **Academic Accessibility:** tools for understanding language should not be gatekept.  
-- **Ethical Pricing:** value-based, not extraction-based.  
-- **Transparency:** full access to modules, no artificial restrictions.  
-- **Technical Excellence:** professional-grade systems across all backends.
+- **Cultural Preservation:** Language recovery is a shared human right. ÆON provides free access to heritage and revitalization communities.  
+- **Academic Accessibility:** Research and understanding should never be gatekept; the outputs and processes of ÆON are documented and shareable.  
+- **Ethical Sustainability:** Fair, value-based pricing ensures the project can continue without exploitation or corporate ownership.  
+- **Responsible Stewardship:** Core systems remain protected to preserve integrity and prevent misuse, while linguistic results and methodologies remain accessible.  
+- **Technical Integrity:** Every build is maintained to professional and cultural standards of accuracy.
 
 ÆON is not just a product; it’s a **continuing effort to preserve linguistic memory through technology**.
 
