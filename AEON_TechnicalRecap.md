@@ -119,28 +119,31 @@
 ## 📁 Folder Structure
 ---
 
+<pre>
 Assets/
 ├── Scripts/
-│ └── AEON/
-│ ├── ChatLog/
-│ ├── Debugging/
-│ ├── ImageGeneration/
-│ └── UI/
+│   └── AEON/
+│       ├── ChatLog/
+│       ├── Debugging/
+│       ├── ImageGeneration/
+│       └── UI/
 ├── StreamingAssets/
-│ ├── AEON/ # 17 linguistic modules
-│ ├── StableDiffuseMinimal/
-│ ├── Python/ # bundled with pynvml
-│ ├── LLM/
-│ │ ├── Backend/ # koboldcpp.exe
-│ │ └── Models/ # single .gguf auto-detected
-│ └── get_vram.py
+│   ├── AEON/                 # 17 linguistic modules
+│   ├── StableDiffuseMinimal/
+│   ├── Python/               # bundled with pynvml
+│   ├── LLM/
+│   │   ├── Backend/          # koboldcpp.exe
+│   │   └── Models/           # single .gguf auto-detected
+│   └── get_vram.py
 ├── Settings/
-│ └── StartupPrompt.asset
+│   └── StartupPrompt.asset
+
 Documents/
 └── AEON Logs/
-├── {yyyyMMdd}/logs/
-├── {yyyyMMdd}/images/
-└── {yyyyMMdd}/debug/
+    ├── {yyyyMMdd}/logs/
+    ├── {yyyyMMdd}/images/
+    └── {yyyyMMdd}/debug/
+</pre>
 ---
 
 ## 📌 Release Notes & Dependencies
