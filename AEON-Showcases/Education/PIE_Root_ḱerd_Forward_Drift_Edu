@@ -1,3 +1,5 @@
+It still isn't formatting correctly, here's the full thing back:
+
 # 🌍 AEON Educational Showcase — From One Word to Many Tongues
 > *The Journey of “ḱerd-” — how one ancient word became “heart,” “corazón,” and “cœur.”*
 
@@ -60,9 +62,16 @@ As humans migrated, *ḱerd-* evolved differently in each region.
 
 ## 🕸️ AEON Divergence Map (Simplified)
 
-| Origin (~4000 BCE) | Celtic | Latin | Greek | Germanic | Indo-Aryan |
-|--------------------|--------|--------|--------|-----------|-------------|
-| **\*ḱerd-** | croí | cor → corazón | kardía | heart | hṛd- / hṛdaya |
+<pre>
+        *ḱerd-*  (~4000 BCE)
+              │
+   ┌──────────┴──────────┬──────────┬──────────┬──────────┐
+   Celtic       Latin        Greek      Germanic   Indo-Aryan
+     │            │            │            │           │
+   croí        cor → corazón  kardía      heart      hṛd-/hṛdaya
+</pre>
+
+---
 
 ## 🔍 What Happened Over Time?
 
