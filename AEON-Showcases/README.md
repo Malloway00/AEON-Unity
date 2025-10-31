@@ -24,11 +24,17 @@ Use these examples as:
 <pre>
 AEON-Showcases/
 ├── Case_Template.md                # Blank template for new studies
+├── Beringian_Lineage_Recovery.md    # Paleo-Siberian → Proto-Amerind backtrace
 ├── Gaelic_Lineage_Backtrace.md     # Full research-grade case
+├── MARTIAN_DIALECT_EVOLUTION_2025–2175.md
 ├── Proto-Indo_European_Root_Study.md
+├── DENE-YENISEIAN_REINTEGRITY_TEST.md
+├── FELIS_DOMESTICUS_SEMIOTIC_DRIFT_2025–3000.md
 ├── Education/                      # Community & teaching versions
 │   ├── Gaelic_Lineage_Backtrace_Edu.md
-│   └── PIE_Root_ḱerd_Forward_Drift_Edu.md
+│   ├── PIE_Root_ḱerd_Forward_Drift_Edu.md
+│   ├── MARTIAN_DIALECT_EVOLUTION_2025–2175_Edu.md
+│   └── FELIS_DOMESTICUS_SEMIOTIC_DRIFT_2025–3000_Edu.md
 └── assets/
     ├── drift_trees/                # Generated drift tree visuals
     └── screenshots/                # AEON interface snapshots
@@ -38,11 +44,26 @@ AEON-Showcases/
 
 ## 📚 Case Study Index
 
-| Case Title | Focus | Modules Used | Date | Research Link | Educational Export |
-|-------------|--------|---------------|-------|----------------|--------------------|
+| Case Title | Focus | Modules Used | Span / Date | Research Link | Educational Export |
+|-------------|--------|---------------|--------------|----------------|--------------------|
 | Gaelic Lineage Reconstruction | Reverse-chronology tracing from Irish to Proto-Celtic | Phoneme Drift, Morphology Chain, Ritual Fossilization | 2025-10-21 | [View Case](Gaelic_Lineage_Backtrace.md) | [Educational Version](Education/Gaelic_Lineage_Backtrace_Edu.md) |
 | Proto-Indo-European Root Study | Forward drift from reconstructed root *ḱerd-* to modern reflexes | Phoneme Drift, Syntax Evolution, Semantic Coherence | 2025-10-22 | [View Case](Proto-Indo_European_Root_Study.md) | [Educational Version](Education/PIE_Root_ḱerd_Forward_Drift_Edu.md) |
+| Beringian Lineage Recovery | Paleo-Siberian substrate carried into early Proto-Amerind ritual speech | Phonology, Morphology Chain, Ritual Fossilization, Backtrace | Research cycle 2025 | [View Case](Beringian_Lineage_Recovery.md) | — |
+| Dené–Yeniseian Reintegration Test | Comparative stress test of divergent vs. contact-assisted reconstructions | Phonology, Morphology, Ritual Fossilization, Diaspora, Validation | Research cycle 2025 | [View Case](DENE-YENISEIAN_REINTEGRITY_TEST.md) | — |
+| Martian Dialect Evolution (2025–2175) | Forward simulation of “Soltok,” a Martian English offshoot | Phoneme Drift, Syntax Evolution, Diaspora/Trauma, Ritual Fossilization | 2025–2175 | [View Case](MARTIAN_DIALECT_EVOLUTION_2025–2175.md) | [Educational Version](Education/MARTIAN_DIALECT_EVOLUTION_2025–2175_Edu.md) |
+| Felis domesticus Semiotic Drift (2025–3000) | Cross-species semiotic expansion into a feline–human pidgin | Phonology, Prosody, Ritual Fossilization, Corpus Tagging | 2025–3000 | [View Case](FELIS_DOMESTICUS_SEMIOTIC_DRIFT_2025–3000.md) | [Educational Version](Education/FELIS_DOMESTICUS_SEMIOTIC_DRIFT_2025–3000_Edu.md) |
 | _[Add your own]_ |  |  |  |  |  |
+
+> **Note:** Educational exports now ship alongside the Gaelic, PIE, Martian, and feline studies. Additional outreach-friendly versions can be added under `Education/` as they are developed.
+
+### 🎓 Educational Export Highlights
+
+| Educational Export | Ideal For | Snapshot |
+|--------------------|-----------|----------|
+| [Gaelic Lineage Backtrace — Edu](Education/Gaelic_Lineage_Backtrace_Edu.md) | Heritage language workshops exploring Irish → Proto-Celtic ancestry | Reverse-chronology walkthrough with emoji-rated plausibility, timeline tables, and cultural notes. |
+| [PIE Root *ḱerd-* Forward Drift — Edu](Education/PIE_Root_ḱerd_Forward_Drift_Edu.md) | Introductory historical linguistics classes tracing a single root across families | Six-branch comparison map highlighting sound shifts from PIE *ḱerd-* to modern reflexes. |
+| [Martian Dialect Evolution — Edu](Education/MARTIAN_DIALECT_EVOLUTION_2025–2175_Edu.md) | Speculative linguistics outreach covering off-world adaptation scenarios | Generation-by-generation “Soltok” diary with environmental prompts, survival lexicon, and intelligibility badges. |
+| [Felis domesticus Semiotic Drift — Edu](Education/FELIS_DOMESTICUS_SEMIOTIC_DRIFT_2025–3000_Edu.md) | Cross-species communication exhibits or STEM clubs | Visual lexicon ladders showing cat–human pidgin development with empathy cues and caretaker tips. |
 
 ---
 
