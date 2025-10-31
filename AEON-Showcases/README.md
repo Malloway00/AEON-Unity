@@ -24,8 +24,12 @@ Use these examples as:
 <pre>
 AEON-Showcases/
 ├── Case_Template.md                # Blank template for new studies
+├── Beringian_Lineage_Recovery.md    # Paleo-Siberian → Proto-Amerind backtrace
 ├── Gaelic_Lineage_Backtrace.md     # Full research-grade case
+├── MARTIAN_DIALECT_EVOLUTION_2025–2175.md
 ├── Proto-Indo_European_Root_Study.md
+├── DENE-YENISEIAN_REINTEGRITY_TEST.md
+├── FELIS_DOMESTICUS_SEMIOTIC_DRIFT_2025–3000.md
 ├── Education/                      # Community & teaching versions
 │   ├── Gaelic_Lineage_Backtrace_Edu.md
 │   └── PIE_Root_ḱerd_Forward_Drift_Edu.md
@@ -38,11 +42,17 @@ AEON-Showcases/
 
 ## 📚 Case Study Index
 
-| Case Title | Focus | Modules Used | Date | Research Link | Educational Export |
-|-------------|--------|---------------|-------|----------------|--------------------|
+| Case Title | Focus | Modules Used | Span / Date | Research Link | Educational Export |
+|-------------|--------|---------------|--------------|----------------|--------------------|
 | Gaelic Lineage Reconstruction | Reverse-chronology tracing from Irish to Proto-Celtic | Phoneme Drift, Morphology Chain, Ritual Fossilization | 2025-10-21 | [View Case](Gaelic_Lineage_Backtrace.md) | [Educational Version](Education/Gaelic_Lineage_Backtrace_Edu.md) |
 | Proto-Indo-European Root Study | Forward drift from reconstructed root *ḱerd-* to modern reflexes | Phoneme Drift, Syntax Evolution, Semantic Coherence | 2025-10-22 | [View Case](Proto-Indo_European_Root_Study.md) | [Educational Version](Education/PIE_Root_ḱerd_Forward_Drift_Edu.md) |
+| Beringian Lineage Recovery | Paleo-Siberian substrate carried into early Proto-Amerind ritual speech | Phonology, Morphology Chain, Ritual Fossilization, Backtrace | Research cycle 2025 | [View Case](Beringian_Lineage_Recovery.md) | — |
+| Dené–Yeniseian Reintegration Test | Comparative stress test of divergent vs. contact-assisted reconstructions | Phonology, Morphology, Ritual Fossilization, Diaspora, Validation | Research cycle 2025 | [View Case](DENE-YENISEIAN_REINTEGRITY_TEST.md) | — |
+| Martian Dialect Evolution (2025–2175) | Forward simulation of “Soltok,” a Martian English offshoot | Phoneme Drift, Syntax Evolution, Diaspora/Trauma, Ritual Fossilization | 2025–2175 | [View Case](MARTIAN_DIALECT_EVOLUTION_2025–2175.md) | — |
+| Felis domesticus Semiotic Drift (2025–3000) | Cross-species semiotic expansion into a feline–human pidgin | Phonology, Prosody, Ritual Fossilization, Corpus Tagging | 2025–3000 | [View Case](FELIS_DOMESTICUS_SEMIOTIC_DRIFT_2025–3000.md) | — |
 | _[Add your own]_ |  |  |  |  |  |
+
+> **Note:** Educational exports are currently available for Gaelic and PIE cases. Additional outreach-friendly versions can be added under `Education/` as they are developed.
 
 ---
 
