@@ -33,6 +33,10 @@ AEON-Showcases/
 ├── Education/                      # Community & teaching versions
 │   ├── Gaelic_Lineage_Backtrace_Edu.md
 │   └── PIE_Root_ḱerd_Forward_Drift_Edu.md
+│   └── Beringian_Lineage_Recovery_edu.md
+│   └── DENE-YENISEIAN_REINTEGRITY_TEST_edu.md
+│   └── MARTIAN_DIALECT_EVOLUTION_2025–2175_edu.md
+│   └── FELIS_DOMESTICUS_SEMIOTIC_DRIFT_2025–3000_edu.md
 └── assets/
     ├── drift_trees/                # Generated drift tree visuals
     └── screenshots/                # AEON interface snapshots
