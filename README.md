@@ -10,9 +10,27 @@ _A Unity-based simulation engine modeling linguistic evolution across generation
 ## 🎬 Quick Preview
 <img src="AEON-Showcases/assets/screenshots/ShowcaseIMG_01.png" width="720" alt="ÆON Simulation Interface"/>
 
-*A glimpse of ÆON’s simulation environment and interface.*  
+*A glimpse of ÆON’s simulation environment and interface.*
 
 > Explore more linguistic simulations in [**ÆON Showcases →**](AEON-Showcases/README.md)
+
+### Featured Case Studies
+- **Beringian Lineage Recovery** — Stepwise reconstruction of a fractured Alaskan-Yupik branch.
+- **Gaelic Lineage Backtrace** — Reverse-time study tracing diaspora dialects to proto-forms.
+- **Proto-Indo-European Root Study** — Comparative reconstruction across ten daughter languages.
+- **Dene–Yeniseian Reintegration Test** — Cross-continental cognate validation workflow.
+- **Martian Dialect Evolution (2025–2175)** — Forward simulation of “Soltok,” a Martian English offshoot under isolation pressures.
+- **Felis domesticus Semiotic Drift (2025–3000)** — Cross-species semiotic expansion culminating in a feline–human pidgin.
+
+#### Educational Companion Briefs
+| Research Case | Educational Export | Focus |
+|---------------|--------------------|-------|
+| Gaelic Lineage Backtrace | [Gaelic Lineage Backtrace — Edu](AEON-Showcases/Education/Gaelic_Lineage_Backtrace_Edu.md) | Classroom walkthrough of Irish → Proto-Celtic ancestry with emoji-rated plausibility. |
+| Proto-Indo-European Root Study | [PIE Root *ḱerd-* Forward Drift — Edu](AEON-Showcases/Education/PIE_Root_ḱerd_Forward_Drift_Edu.md) | Intro survey of PIE reflexes across branches with simplified drift tables. |
+| Martian Dialect Evolution (2025–2175) | [Martian Dialect Evolution — Edu](AEON-Showcases/Education/MARTIAN_DIALECT_EVOLUTION_2025–2175_Edu.md) | Speculative off-world adaptation diary with environmental prompts and survival lexicon. |
+| Felis domesticus Semiotic Drift (2025–3000) | [Felis domesticus Semiotic Drift — Edu](AEON-Showcases/Education/FELIS_DOMESTICUS_SEMIOTIC_DRIFT_2025–3000_Edu.md) | Cross-species empathy exercises mapping cat–human pidgin milestones. |
+
+> **Latest additions:** The Martian and feline simulations join the showcase alongside the new ritual backtrace and Dené–Yeniseian stress test. Review the updated [showcase index](AEON-Showcases/README.md) for summaries, module coverage, and export status.
 
 ---
 
