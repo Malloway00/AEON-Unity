@@ -10,9 +10,19 @@ _A Unity-based simulation engine modeling linguistic evolution across generation
 ## 🎬 Quick Preview
 <img src="AEON-Showcases/assets/screenshots/ShowcaseIMG_01.png" width="720" alt="ÆON Simulation Interface"/>
 
-*A glimpse of ÆON’s simulation environment and interface.*  
+*A glimpse of ÆON’s simulation environment and interface.*
 
 > Explore more linguistic simulations in [**ÆON Showcases →**](AEON-Showcases/README.md)
+
+### Featured Case Studies
+- **Beringian Lineage Recovery** — Stepwise reconstruction of a fractured Alaskan-Yupik branch.
+- **Gaelic Lineage Backtrace** — Reverse-time study tracing diaspora dialects to proto-forms.
+- **Proto-Indo-European Root Study** — Comparative reconstruction across ten daughter languages.
+- **Dene–Yeniseian Reintegration Test** — Cross-continental cognate validation workflow.
+- **Martian Dialect Evolution (2025–2175)** — Forward simulation of “Soltok,” a Martian English offshoot under isolation pressures.
+- **Felis domesticus Semiotic Drift (2025–3000)** — Cross-species semiotic expansion culminating in a feline–human pidgin.
+
+> **Latest additions:** The Martian and feline simulations join the showcase alongside the new ritual backtrace and Dené–Yeniseian stress test. Review the updated [showcase index](AEON-Showcases/README.md) for summaries, module coverage, and export status.
 
 ---
 
