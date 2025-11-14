@@ -143,6 +143,6 @@ Unity • AI Systems • Historical Linguistics • Digital Heritage
 ---
 
 ## 🔗 Planned Public Links
-- Itch.io Page — *(pending approval)*  
+- Itch.io Page — *[Æ.O.N. - The Analytical Engine of Origin and Narrative](https://malloway.itch.io/aeon)*  
 - Official Site — *(coming soon)*  
 - Documentation Portal — *(in development)*
