@@ -1,6 +1,6 @@
 # ÆON — Analytical Engine for Origin and Narrative
 **Linguistic Simulation Engine • Unity 6 • AI-Integrated Platform**  
-© 2025 Devin Barrett — All Rights Reserved  
+© 2025 Devin Barrett - All Rights Reserved  
 > *“Built to Remember.”*  
 
 **ÆON is a hybrid linguistic simulation environment combining academic-grade language evolution modeling, creative worldbuilding tools, and a fully integrated offline AI ecosystem.**  
@@ -20,7 +20,7 @@ Explore full case studies and output examples in:
 ---
 
 ## 🧭 What is ÆON?
-ÆON is a **linguistic simulation and reconstruction engine** designed to model how languages evolve, fracture, and preserve memory across generations — in both **real historical contexts** and **speculative futures**.
+ÆON is a **linguistic simulation and reconstruction engine** designed to model how languages evolve, fracture, and preserve memory across generations in both **real historical contexts** and **speculative futures**.
 
 It blends:
 
@@ -91,15 +91,15 @@ Documents/AEON Logs/{yyyyMMdd}/
 AEON includes a curated library of **linguistic case studies** demonstrating real and imagined evolution:
 
 ### 🧬 Academic / Historical
-- **Beringian Lineage Recovery** – Reconstruction of a fragmented Alaskan-Yupik cluster.  
-- **Gaelic Diaspora Backtrace** – Reverse-time reconstruction of diaspora dialects.  
-- **Proto-Indo-European Root Study** – Comparative simulation across 10 daughter branches.  
-- **Dene–Yeniseian Reintegration Test** – Evaluating cross-continental cognate plausibility.
+- **Beringian Lineage Recovery**: Reconstruction of a fragmented Alaskan-Yupik cluster.  
+- **Gaelic Diaspora Backtrace**: Reverse-time reconstruction of diaspora dialects.  
+- **Proto-Indo-European Root Study**: Comparative simulation across 10 daughter branches.  
+- **Dene–Yeniseian Reintegration Test**: Evaluating cross-continental cognate plausibility.
 
 ### 🚀 Speculative / Forward-Linguistic
-- **Martian Dialect Evolution (2025–2175)** – Trajectory of “Soltok,” a Martian-English offshoot.  
-- **Felis domesticus Semiotic Drift (2025–3000)** – Cross-species semiotic expansion toward a feline–human pidgin.  
-- **Ritual Backtrace Simulation** – Fossilized ceremonial syntax under extreme time depth.
+- **Martian Dialect Evolution (2025–2175)**: Trajectory of “Soltok,” a Martian-English offshoot.  
+- **Felis domesticus Semiotic Drift (2025–3000)**: Cross-species semiotic expansion toward a feline–human pidgin.  
+- **Ritual Backtrace Simulation**: Fossilized ceremonial syntax under extreme time depth.
 
 Each showcase contains:
 - Module breakdown  
@@ -159,7 +159,7 @@ These are used across documentation, trailers, and external presentations.
 ---
 
 ## ⚖️ Licensing
-© 2025 **Devin Barrett** — All Rights Reserved.
+© 2025 **Devin Barrett** - All Rights Reserved.
 
 This repository contains *documentation, showcases, and branding assets*.  
 The AEON application itself is proprietary software and may not be redistributed, modified, or reverse-engineered.
@@ -178,8 +178,8 @@ Creator of the ÆON project
 ---
 
 ## 🔗 Useful Links
-- **AEON on itch.io** — https://malloway.itch.io/aeon  
-- **Showcases** — ./AEON-Showcases/README.md  
-- **Branding Assets** — ./AEON-Branding/  
-- **Technical Recap** — ./AEON_TechnicalRecap.md  
+- **AEON on itch.io**: https://malloway.itch.io/aeon  
+- **Showcases**: ./AEON-Showcases/README.md  
+- **Branding Assets**: ./AEON-Branding/  
+- **Technical Recap**: ./AEON_TechnicalRecap.md  
 - Official Site — *(in development)*
