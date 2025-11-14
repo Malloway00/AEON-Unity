@@ -1,77 +1,83 @@
 # ÆON — Analytical Engine for Origin and Narrative
-**Linguistic Simulation Engine • Unity 6 Build**  
+**Linguistic Simulation Engine • Unity 6 • AI-Integrated Platform**  
 © 2025 Devin Barrett — All Rights Reserved  
 > *“Built to Remember.”*  
 
-_A Unity-based simulation engine modeling linguistic evolution across generations._
+**ÆON is a hybrid linguistic simulation environment combining academic-grade language evolution modeling, creative worldbuilding tools, and a fully integrated offline AI ecosystem.**  
+This repository serves as a **showcase, documentation hub, and branding archive** for AEON.  
+The full application is available on itch.io → https://malloway.itch.io/aeon
 
 ---
 
 ## 🎬 Quick Preview
 <img src="AEON-Showcases/assets/screenshots/ShowcaseIMG_01.png" width="720" alt="ÆON Simulation Interface"/>
 
-*A glimpse of ÆON’s simulation environment and interface.*
+*A glimpse of ÆON’s simulation interface and symbolic routing engine.*
 
-> Explore more linguistic simulations in [**ÆON Showcases →**](AEON-Showcases/README.md)
-
-### Featured Case Studies
-- **Beringian Lineage Recovery** — Stepwise reconstruction of a fractured Alaskan-Yupik branch.
-- **Gaelic Lineage Backtrace** — Reverse-time study tracing diaspora dialects to proto-forms.
-- **Proto-Indo-European Root Study** — Comparative reconstruction across ten daughter languages.
-- **Dene–Yeniseian Reintegration Test** — Cross-continental cognate validation workflow.
-- **Martian Dialect Evolution (2025–2175)** — Forward simulation of “Soltok,” a Martian English offshoot under isolation pressures.
-- **Felis domesticus Semiotic Drift (2025–3000)** — Cross-species semiotic expansion culminating in a feline–human pidgin.
-
-> **Latest additions:** The Martian and feline simulations join the showcase alongside the new ritual backtrace and Dené–Yeniseian stress test. Review the updated [showcase index](AEON-Showcases/README.md) for summaries, module coverage, and export status.
+Explore full case studies and output examples in:  
+👉 **[AEON Showcases](AEON-Showcases/README.md)**
 
 ---
 
-## 🧭 Overview
-ÆON is a fully interactive **linguistic simulation system** designed to model how languages evolve, fracture, and preserve memory across time.  
-It combines **academic linguistics**, **AI integration**, and **Unity-based visualization** to simulate the evolution of phonology, morphology, syntax, and cultural context across generations.
+## 🧭 What is ÆON?
+ÆON is a **linguistic simulation and reconstruction engine** designed to model how languages evolve, fracture, and preserve memory across generations — in both **real historical contexts** and **speculative futures**.
 
-ÆON treats language as a living system—one shaped by trauma, ritual, diaspora, and environmental change.  
-It serves as both a **research-grade tool** and an **experiential simulation engine** for creative and heritage applications.
+It blends:
 
----
+- **Professional software engineering** (Unity 6, Python, KoboldCPP, Stable Diffusion)
+- **Academic linguistic methodology** (sound change, grammar drift, proto-form reconstruction)
+- **Speculative simulation** (Martian English, feline semiotic drift, ritual fossilization)
 
-## ⚙️ System Architecture
-ÆON’s internal structure follows a modular design:
+ÆON functions as:
 
-| Module | Function |
-|---------|-----------|
-| **Phoneme Drift Engine** | Simulates attested sound changes across generations using natural phonetic tendencies. |
-| **Morphology Chain Logic** | Models morphological decay, fusion, and analogical reshaping. |
-| **Syntax Evolution Ruleset** | Simulates syntactic drift, grammaticalization, and word-order change. |
-| **Prosody & Meter System** | Handles stress, rhythm, and tonal evolution. |
-| **Ritual Fossilization Engine** | Preserves archaic forms found in ceremonial or mnemonic speech. |
-| **Artifact Influence Engine** | Examines how writing systems and cultural tools stabilize language. |
-| **Diaspora & Trauma Dialect Engine** | Simulates accelerated change under migration and crisis. |
-| **Root Fossil Reintegration Engine** | Validates reconstructed proto-forms for plausibility. |
-| **Historical Reconstruction Mode** | Reverses modern fragments to proto-forms using comparative principles. |
-| **Real-Time Corpus Integration** | Aligns simulations with existing linguistic data for coherence. |
-
-Each module communicates through a **Symbolic Router** and **Tag Database**, allowing ÆON to interpret user input and apply relevant pressures dynamically.
+- A **research tool**  
+- A **creative worldbuilding platform**  
+- A **cultural preservation aid**  
+- A **forward-linguistics simulation environment**  
 
 ---
 
-## 🧠 AI & Local Integration
-ÆON operates with both **online and offline intelligence**:
+## ⚙️ Architecture Overview
+ÆON uses a modular engine governed by a **Symbolic Router** that dynamically activates relevant subsystems based on user input.
 
-- **Local LLM Backend:** integrates with *koboldcpp* models (`.gguf`) through a lightweight router.  
-  _[Local model placeholder link — coming soon]_  
-- **Stable Diffusion Backend:** local image generation for symbolic, academic, or illustrative outputs.  
-  _[Local SD model placeholder link — coming soon]_  
-- **Fallback System:** automatic switch to online LLMs (OpenRouter, etc.) when offline backends fail.  
-- **All subprocesses** are safely managed and logged through dedicated thread handlers.
+### 🧩 Core Linguistic Modules
+| Module | Purpose |
+|--------|----------|
+| **Phoneme Drift Engine** | Simulates attested cross-linguistic sound changes over generational timelines. |
+| **Morphology Chain Logic** | Models morphological erosion, fusion, and analogical reformation. |
+| **Syntax Evolution Ruleset** | Tracks grammar drift, word-order changes, and grammaticalization patterns. |
+| **Prosody & Tonal System** | Handles stress, meter, and tonal evolution across dialect splits. |
+| **Ritual Fossilization Engine** | Preserves archaic forms in ceremonial and mnemonic speech domains. |
+| **Artifact Influence Engine** | Evaluates how writing systems and material culture stabilize language. |
+| **Diaspora & Trauma Drift Engine** | Simulates crisis-accelerated divergence and dialect fragmentation. |
+| **Root Fossil Reintegration** | Validates reconstructed proto-forms against typological plausibility. |
+| **Historical Backtrace Mode** | Reverse-engineers modern fragments to proto-forms using comparative method. |
+| **Corpus Coherence Engine** | Aligns generated languages with established linguistic databases. |
+
+All 17 modules are fully integrated into ÆON’s runtime environment.
+
+---
+
+## 🧠 AI Integration
+ÆON incorporates **both offline and online AI systems**:
+
+- **Local LLM Backend** (KoboldCPP, `.gguf`)  
+- **Stable Diffusion Backend** (local Python environment)  
+- **Cloud AI Fallback** (OpenRouter and compatible endpoints)  
+- **Automatic Module Routing** using tag-based context detection  
+- **Thread-Safe Subprocess Manager** for all AI tasks  
+
+ÆON includes a complete offline stack so users can run everything **without internet access**.
 
 ---
 
 ## 🎨 Interface & Experience
-- **Professional splash screen and golden seal branding**  
-- **Cross-platform builds** for Windows, macOS, and Linux  
-- **Thread-safe subprocess management**
-- **Automatic log and image archive structure:**
+- **Golden seal branding + professional splash screen**  
+- **Interactive chat environment with multi-line input**  
+- **Cross-platform support** (Windows release; macOS/Linux theoretical)  
+- **Automatic archiving system** for logs, images, and exports  
+
+Directory example:
 <pre>
 Documents/AEON Logs/{yyyyMMdd}/
 ├── logs/
@@ -81,68 +87,99 @@ Documents/AEON Logs/{yyyyMMdd}/
 
 ---
 
-## 💵 Pricing Model
-ÆON follows an **ethical, value-based pricing model** designed to balance accessibility and sustainability.
+## 📚 AEON Showcases (Academic + Speculative Studies)
+AEON includes a curated library of **linguistic case studies** demonstrating real and imagined evolution:
 
-| Tier | Price | Includes |
-|------|--------|----------|
-| 🟢 **AEON Complete** | **$30 (one-time)** | Full software access — fiction & academic modes, 17 linguistic modules, local & cloud AI support, symbolic routing, export tools. |
-| 🏛 **Institutional Support** | **$10/seat/month** | Academic license with support, training materials, bulk deployment, and update guarantees. |
-| 🟤 **Indigenous & Tribal Communities** | **Free** | Full license with cultural preservation partnership, feature request priority, and heritage support tools. |
+### 🧬 Academic / Historical
+- **Beringian Lineage Recovery** – Reconstruction of a fragmented Alaskan-Yupik cluster.  
+- **Gaelic Diaspora Backtrace** – Reverse-time reconstruction of diaspora dialects.  
+- **Proto-Indo-European Root Study** – Comparative simulation across 10 daughter branches.  
+- **Dene–Yeniseian Reintegration Test** – Evaluating cross-continental cognate plausibility.
+
+### 🚀 Speculative / Forward-Linguistic
+- **Martian Dialect Evolution (2025–2175)** – Trajectory of “Soltok,” a Martian-English offshoot.  
+- **Felis domesticus Semiotic Drift (2025–3000)** – Cross-species semiotic expansion toward a feline–human pidgin.  
+- **Ritual Backtrace Simulation** – Fossilized ceremonial syntax under extreme time depth.
+
+Each showcase contains:
+- Module breakdown  
+- Time-depth modeling  
+- Generated examples  
+- Export-ready reports  
 
 ---
 
-## 🌍 Core Values & Philosophy
-- **Cultural Preservation:** Language recovery is a shared human right. ÆON provides free access to heritage and revitalization communities.  
-- **Academic Accessibility:** Research and understanding should never be gatekept; the outputs and processes of ÆON are documented and shareable.  
-- **Ethical Sustainability:** Fair, value-based pricing ensures the project can continue without exploitation or corporate ownership.  
-- **Responsible Stewardship:** Core systems remain protected to preserve integrity and prevent misuse, while linguistic results and methodologies remain accessible.  
-- **Technical Integrity:** Every build is maintained to professional and cultural standards of accuracy.
+## 💵 Pricing Model
+ÆON follows an ethical, value-based model intended to balance accessibility and sustainability:
 
-ÆON is not just a product—it’s a **continuing effort to preserve linguistic memory through technology.**
+### 🟢 AEON Complete — $30 (One-Time)
+Full application access, all modules, all AI integrations, lifetime updates.
+
+### 🏛 Institutional Support — $10/seat/month
+Academic licensing for universities, museums, and research institutions.
+
+### 🟤 Indigenous & Tribal Access — Free
+Full access for heritage preservation and revitalization projects.
+
+Get the full application:  
+👉 https://malloway.itch.io/aeon
+
+---
+
+## 🌍 Core Values
+- **Cultural Preservation:** Language recovery tools accessible without gatekeeping.  
+- **Academic Integrity:** Transparent processes, reproducible simulations.  
+- **Creative Freedom:** Support for fictional, extraterrestrial, and speculative linguistics.  
+- **Ethical AI:** Offline-first architecture respecting privacy and sovereignty.  
+- **Technical Stewardship:** Core systems are protected to maintain integrity.
 
 ---
 
 ## 📦 Launch Status
 | Component | Status |
-|------------|--------|
-| Unity Build (Core Engine) | ✅ Complete |
-| Local LLM + SD Integration | ✅ Tested |
-| Thread Safety & Error Handling | ✅ Verified |
-| Multi-Platform Packaging | ✅ Ready |
-| Itch.io Release | 🕓 Pending upload limit approval |
+|-----------|--------|
+| Unity Build | ✅ Complete |
+| Local AI Integration | ✅ Tested |
+| SD Integration | ✅ Verified |
+| Multi-Platform Packaging | ⚠️ Windows primary; others theoretical |
+| Itch.io Release | ✅ Live |
+| Documentation | 🟡 Expanding |
+| Showcases | 🟢 Active |
 
 ---
 
 ## 🎨 Visual Identity
-Key artwork and UI branding assets are stored under **`/AEON-Branding/`**, including:
-- **Name_v2.png** — Modern logotype version  
-- **V5.png** — Golden seal and visual emblem  
-- **LoadingScreen.png** — Official splash artwork  
+Branding assets can be found under **`/AEON-Branding/`**:
+- `Name_v2.png` — Primary logotype  
+- `V5.png` — Golden seal emblem  
+- `LoadingScreen.png` — Official splash artwork  
 
-These assets form ÆON’s visual language and are used across public releases, trailers, and documentation.
+These are used across documentation, trailers, and external presentations.
 
 ---
 
 ## ⚖️ Licensing
-© 2025 **Devin Barrett. All Rights Reserved.**
+© 2025 **Devin Barrett** — All Rights Reserved.
 
-This repository and its contents may not be redistributed, modified, or resold without written permission.  
-Educational and heritage organizations may request free access under the **ÆON Cultural License**.
+This repository contains *documentation, showcases, and branding assets*.  
+The AEON application itself is proprietary software and may not be redistributed, modified, or reverse-engineered.
 
-For partnership inquiries or cultural support access, contact **aeonlinguistic.engine@gmail.com**.
+For cultural licensing, academic partnerships, or support:
+📧 **aeonlinguistic.engine@gmail.com**
 
 ---
 
 ## 🪶 Author
 **Devin Barrett**  
-Designer, Developer, and Architect of ÆON  
-Unity • AI Systems • Historical Linguistics • Digital Heritage  
-> “Built to Remember.”
+Developer • Linguistic Systems Designer • AI Integration Engineer  
+Creator of the ÆON project  
+> *“Built to Remember.”*
 
 ---
 
-## 🔗 Planned Public Links
-- Itch.io Page — *[Æ.O.N. - The Analytical Engine of Origin and Narrative](https://malloway.itch.io/aeon)*  
-- Official Site — *(coming soon)*  
-- Documentation Portal — *(in development)*
+## 🔗 Useful Links
+- **AEON on itch.io** — https://malloway.itch.io/aeon  
+- **Showcases** — ./AEON-Showcases/README.md  
+- **Branding Assets** — ./AEON-Branding/  
+- **Technical Recap** — ./AEON_TechnicalRecap.md  
+- Official Site — *(in development)*
