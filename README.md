@@ -5,7 +5,7 @@
 
 **ÆON is a hybrid linguistic simulation environment combining academic-grade language evolution modeling, creative worldbuilding tools, and a fully integrated offline AI ecosystem.**  
 This repository serves as a **showcase, documentation hub, and branding archive** for AEON.  
-The full application is available on itch.io → https://malloway.itch.io/aeon
+The full application is available on itch.io → [Æ.O.N. - The Analytical Engine of Origin and Narrative](https://malloway.itch.io/aeon)
 
 ---
 
@@ -15,7 +15,7 @@ The full application is available on itch.io → https://malloway.itch.io/aeon
 *A glimpse of ÆON’s simulation interface and symbolic routing engine.*
 
 Explore full case studies and output examples in:  
-👉 **[AEON Showcases](AEON-Showcases/README.md)**
+👉 **[AEON Showcases](AEON-Showcases)**
 
 ---
 
@@ -122,7 +122,7 @@ Academic licensing for universities, museums, and research institutions.
 Full access for heritage preservation and revitalization projects.
 
 Get the full application:  
-👉 https://malloway.itch.io/aeon
+👉 [Æ.O.N. - The Analytical Engine of Origin and Narrative](https://malloway.itch.io/aeon)
 
 ---
 
@@ -178,8 +178,8 @@ Creator of the ÆON project
 ---
 
 ## 🔗 Useful Links
-- **AEON on itch.io**: https://malloway.itch.io/aeon  
-- **Showcases**: ./AEON-Showcases/README.md  
+- **AEON on itch.io**: [Æ.O.N. - The Analytical Engine of Origin and Narrative](https://malloway.itch.io/aeon)
+- **Showcases**: [AEON Showcases](AEON-Showcases)
 - **Branding Assets**: ./AEON-Branding/  
 - **Technical Recap**: ./AEON_TechnicalRecap.md  
 - Official Site — *(in development)*
