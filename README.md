@@ -1,4 +1,4 @@
-# ÆON — Analytical Engine for Origin and Narrative
+# ÆON - Analytical Engine for Origin and Narrative
 **Linguistic Simulation Engine • Unity 6 • AI-Integrated Platform**  
 © 2025 Devin Barrett - All Rights Reserved  
 > *“Built to Remember.”*  
@@ -112,13 +112,13 @@ Each showcase contains:
 ## 💵 Pricing Model
 ÆON follows an ethical, value-based model intended to balance accessibility and sustainability:
 
-### 🟢 AEON Complete — $30 (One-Time)
+### 🟢 AEON Complete - $30 (One-Time)
 Full application access, all modules, all AI integrations, lifetime updates.
 
-### 🏛 Institutional Support — $10/seat/month
+### 🏛 Institutional Support - $10/seat/month
 Academic licensing for universities, museums, and research institutions.
 
-### 🟤 Indigenous & Tribal Access — Free
+### 🟤 Indigenous & Tribal Access - Free
 Full access for heritage preservation and revitalization projects.
 
 Get the full application:  
@@ -150,9 +150,9 @@ Get the full application:
 
 ## 🎨 Visual Identity
 Branding assets can be found under **`/AEON-Branding/`**:
-- `Name_v2.png` — Primary logotype  
-- `V5.png` — Golden seal emblem  
-- `LoadingScreen.png` — Official splash artwork  
+- `Name_v2.png` - Primary logotype  
+- `V5.png` - Golden seal emblem  
+- `LoadingScreen.png` - Official splash artwork  
 
 These are used across documentation, trailers, and external presentations.
 
@@ -182,4 +182,4 @@ Creator of the ÆON project
 - **Showcases**: [AEON Showcases](AEON-Showcases)
 - **Branding Assets**: ./AEON-Branding/  
 - **Technical Recap**: ./AEON_TechnicalRecap.md  
-- Official Site — *(in development)*
+- Official Site - *(in development)*
