@@ -1,4 +1,4 @@
-# ÆON - Analytical Engine for Origin and Narrative
+# Æ.O.N. - The Analytical Engine for Origin and Narrative
 **Linguistic Simulation Engine • Unity 6 • AI-Integrated Platform**  
 © 2025 Devin Barrett - All Rights Reserved  
 > *“Built to Remember.”*  
@@ -112,7 +112,7 @@ Each showcase contains:
 ## 💵 Pricing Model
 ÆON follows an ethical, value-based model intended to balance accessibility and sustainability:
 
-### 🟢 AEON Complete - $30 (One-Time)
+### 🟢 Æ.O.N. Complete - $30 (One-Time)
 Full application access, all modules, all AI integrations, lifetime updates.
 
 ### 🏛 Institutional Support - $10/seat/month
@@ -172,13 +172,13 @@ For cultural licensing, academic partnerships, or support:
 ## 🪶 Author
 **Devin Barrett**  
 Developer • Linguistic Systems Designer • AI Integration Engineer  
-Creator of the ÆON project  
+Creator of the Æ.O.N. project  
 > *“Built to Remember.”*
 
 ---
 
 ## 🔗 Useful Links
-- **AEON on itch.io**: [Æ.O.N. - The Analytical Engine of Origin and Narrative](https://malloway.itch.io/aeon)
+- **Æ.O.N. on itch.io**: [Æ.O.N. - The Analytical Engine of Origin and Narrative](https://malloway.itch.io/aeon)
 - **Showcases**: [AEON Showcases](AEON-Showcases)
 - **Branding Assets**: ./AEON-Branding/  
 - **Technical Recap**: ./AEON_TechnicalRecap.md  
