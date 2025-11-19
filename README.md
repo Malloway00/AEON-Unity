@@ -1,4 +1,4 @@
-# Æ.O.N. - The Analytical Engine for Origin and Narrative
+# Æ.O.N: The Analytical Engine of Origin and Narrative
 **Linguistic Simulation Engine • Unity 6 • AI-Integrated Platform**  
 © 2025 Devin Barrett - All Rights Reserved  
 > *“Built to Remember.”*  
