@@ -91,15 +91,15 @@ Documents/AEON Logs/{yyyyMMdd}/
 AEON includes a curated library of **linguistic case studies** demonstrating real and imagined evolution:
 
 ### 🧬 Academic / Historical
-- **Beringian Lineage Recovery**: Reconstruction of a fragmented Alaskan-Yupik cluster.  
-- **Gaelic Diaspora Backtrace**: Reverse-time reconstruction of diaspora dialects.  
-- **Proto-Indo-European Root Study**: Comparative simulation across 10 daughter branches.  
-- **Dene–Yeniseian Reintegration Test**: Evaluating cross-continental cognate plausibility.
+- **Beringian Lineage Recovery:** Reconstruction of a fragmented Alaskan-Yupik cluster.  
+- **Gaelic Diaspora Backtrace:** Reverse-time reconstruction of diaspora dialects.  
+- **Proto-Indo-European Root Study:** Comparative simulation across 10 daughter branches.  
+- **Dene–Yeniseian Reintegration Test:** Evaluating cross-continental cognate plausibility.
 
 ### 🚀 Speculative / Forward-Linguistic
-- **Martian Dialect Evolution (2025–2175)**: Trajectory of “Soltok,” a Martian-English offshoot.  
-- **Felis domesticus Semiotic Drift (2025–3000)**: Cross-species semiotic expansion toward a feline–human pidgin.  
-- **Ritual Backtrace Simulation**: Fossilized ceremonial syntax under extreme time depth.
+- **Martian Dialect Evolution (2025–2175):** Trajectory of “Soltok,” a Martian-English offshoot.  
+- **Felis domesticus Semiotic Drift (2025–3000):** Cross-species semiotic expansion toward a feline–human pidgin.  
+- **Ritual Backtrace Simulation:** Fossilized ceremonial syntax under extreme time depth.
 
 Each showcase contains:
 - Module breakdown  
@@ -112,13 +112,13 @@ Each showcase contains:
 ## 💵 Pricing Model
 ÆON follows an ethical, value-based model intended to balance accessibility and sustainability:
 
-### 🟢 Æ.O.N. Complete - $30 (One-Time)
+### 🟢 Æ.O.N. Complete: $30 (One-Time)
 Full application access, all modules, all AI integrations, lifetime updates.
 
-### 🏛 Institutional Support - $10/seat/month
+### 🏛 Institutional Support: $10/seat/month
 Academic licensing for universities, museums, and research institutions.
 
-### 🟤 Indigenous & Tribal Access - Free
+### 🟤 Indigenous & Tribal Access: Free
 Full access for heritage preservation and revitalization projects.
 
 Get the full application:  
