@@ -92,4 +92,4 @@ They are intended for educational, creative, and heritage documentation purposes
 For cultural or institutional use, contact: **aeonlinguistic.engine@gmail.com**
 
 > “Languages remember us when we remember them.”  
-> — *AEON System Log, v1.5*
+> - *AEON System Log, v1.5*
