@@ -114,9 +114,6 @@ Each showcase contains:
 ### 🟢 Æ.O.N. Complete: $30 (One-Time)
 Full application access, all modules, all AI integrations, lifetime updates.
 
-### 🏛 Institutional Support: $10/seat/month
-Academic licensing for universities, museums, and research institutions.
-
 ### 🟤 Indigenous & Tribal Access: Free
 Full access for heritage preservation and revitalization projects.
 
