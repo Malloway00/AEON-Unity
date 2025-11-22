@@ -61,7 +61,7 @@ All 17 modules are fully integrated into ÆON’s runtime environment.
 
 - **Local LLM Backend** (KoboldCPP, `.gguf`)  
 - **Stable Diffusion Backend** (local Python environment)
-- **Text To Speech** (System(offline) or Cloud speech for audio narration)
+- **Text To Speech** System or Piper for tts audio narration
 - **Cloud AI Fallback** (OpenRouter and compatible endpoints)  
 - **Automatic Module Routing** using tag-based context detection  
 - **Thread-Safe Subprocess Manager** for all AI tasks  
