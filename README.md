@@ -42,15 +42,25 @@ It blends:
 | Module | Purpose |
 |--------|----------|
 | **Phoneme Drift Engine** | Simulates attested cross-linguistic sound changes over generational timelines. |
-| **Morphology Chain Logic** | Models morphological erosion, fusion, and analogical reformation. |
-| **Syntax Evolution Ruleset** | Tracks grammar drift, word-order changes, and grammaticalization patterns. |
-| **Prosody & Tonal System** | Handles stress, meter, and tonal evolution across dialect splits. |
-| **Ritual Fossilization Engine** | Preserves archaic forms in ceremonial and mnemonic speech domains. |
-| **Artifact Influence Engine** | Evaluates how writing systems and material culture stabilize language. |
-| **Diaspora & Trauma Drift Engine** | Simulates crisis-accelerated divergence and dialect fragmentation. |
-| **Root Fossil Reintegration** | Validates reconstructed proto-forms against typological plausibility. |
-| **Historical Backtrace Mode** | Reverse-engineers modern fragments to proto-forms using comparative method. |
-| **Corpus Coherence Engine** | Aligns generated languages with established linguistic databases. |
+| **Morphology Chain Logic** | Models morphological erosion, fusion, affix drift, and analogical reformation. |
+| **Syntax Evolution Ruleset** | Tracks grammar drift, word-order changes, clause collapse, and grammaticalization. |
+| **Prosody & Tonal System** | Handles stress, meter, cadence, tonal evolution, and chant-aligned drift patterns. |
+| **Ritual Fossilization Engine** | Preserves archaic forms in ceremonial, symbolic, or mnemonic speech domains. |
+| **Artifact Influence Engine** | Evaluates how writing systems, media, and material culture stabilize or mutate language. |
+| **Diaspora & Trauma Drift Engine** | Simulates crisis-accelerated divergence, displacement-driven simplification, and trauma-pressure drift. |
+| **Root Fossil Reintegration** | Validates reconstructed proto-forms using typology, phonotactics, and preservation models. |
+| **Historical Backtrace Mode** | Reverse-engineers modern fragments back into proto-forms or unattested ancestral stages. |
+| **Corpus Coherence Engine** | Aligns simulated languages with real linguistic corpora and typological universals. |
+| **Export & Ethnographic Format Engine** | Generates academic, narrative, or simplified outputs with glossing and metadata options. |
+| **Taboo & Information Suppression Engine** | Models taboo domains, semantic voiding, euphemistic drift, and symbolic fossilization. |
+| **Lost Word Backtrace Mode** | Reconstructs missing lexemes from partial fossils, symbols, or phonemic residues. |
+| **Diaspora & Trauma Dialects Model** | Simulates dialect fragmentation, symbolic residue formation, and contact instability. |
+| **Ethnographic / Academic Export Engine** | Structures outputs for research-grade exports, corpus logs, or simplified public formats. |
+| **Root Fossil Reintegration Engine** | Performs post-simulation proto-form validation using CRI/MV/SC metrics. |
+| **Real-Time Corpus Integration Engine** | Performs API-level corpus checks and matches simulated roots to attested data. |
+| **Generic Corpus Validation Framework** | Applies cross-linguistic corpus scans and typological benchmarks for plausibility. |
+| **Field Linguist Validation Checkliste** | Provides a field-linguist-style validation pass: phonemic, semantic, syntactic, prosodic checks. |
+| **Corpus Match Seed Set** | Provides pre-mapped proto-root → corpus-attested cognate anchors for reconstruction grounding. |
 
 All 20 modules are fully integrated into ÆON’s runtime environment.
 
