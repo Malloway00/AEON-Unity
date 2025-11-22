@@ -22,7 +22,7 @@ Explore full case studies and output examples in:
 
 It blends:
 
-- **Professional software engineering** (Unity 6, Python, KoboldCPP, Stable Diffusion)
+- **Professional software engineering** (Unity 6, Python, KoboldCPP, Stable Diffusion, Piper tts)
 - **Academic linguistic methodology** (sound change, grammar drift, proto-form reconstruction)
 - **Speculative simulation** (Martian English, feline semiotic drift, ritual fossilization)
 
