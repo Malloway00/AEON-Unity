@@ -52,7 +52,7 @@ It blends:
 | **Historical Backtrace Mode** | Reverse-engineers modern fragments to proto-forms using comparative method. |
 | **Corpus Coherence Engine** | Aligns generated languages with established linguistic databases. |
 
-All 17 modules are fully integrated into ÆON’s runtime environment.
+All 20 modules are fully integrated into ÆON’s runtime environment.
 
 ---
 
