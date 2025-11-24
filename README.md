@@ -97,24 +97,9 @@ Documents/AEON Logs/{yyyyMMdd}/
 ---
 
 ## 📚 AEON Showcases (Academic + Speculative Studies)
-AEON includes a curated library of **linguistic case studies** demonstrating real and imagined evolution:
+ÆON includes a curated library of **linguistic case studies** demonstrating real and imagined evolution:
 
-### 🧬 Academic / Historical
-- **Beringian Lineage Recovery:** Reconstruction of a fragmented Alaskan-Yupik cluster.  
-- **Gaelic Diaspora Backtrace:** Reverse-time reconstruction of diaspora dialects.  
-- **Proto-Indo-European Root Study:** Comparative simulation across 10 daughter branches.  
-- **Dene–Yeniseian Reintegration Test:** Evaluating cross-continental cognate plausibility.
-
-### 🚀 Speculative / Forward-Linguistic
-- **Martian Dialect Evolution (2025–2175):** Trajectory of “Soltok,” a Martian-English offshoot.  
-- **Felis domesticus Semiotic Drift (2025–3000):** Cross-species semiotic expansion toward a feline–human pidgin.  
-- **Ritual Backtrace Simulation:** Fossilized ceremonial syntax under extreme time depth.
-
-Each showcase contains:
-- Module breakdown  
-- Time-depth modeling  
-- Generated examples  
-- Export-ready reports  
+**[AEON Showcases](AEON-Showcases)**
 
 ---
 
