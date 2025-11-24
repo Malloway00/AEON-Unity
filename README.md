@@ -122,29 +122,6 @@ Get the full application:
 
 ---
 
-## 📦 Launch Status
-| Component | Status |
-|-----------|--------|
-| Unity Build | ✅ Complete |
-| Local AI Integration | ✅ Tested |
-| SD Integration | ✅ Verified |
-| Multi-Platform Packaging | ⚠️ Windows primary; others theoretical |
-| Itch.io Release | ✅ Live |
-| Documentation | 🟡 Expanding |
-| Showcases | 🟢 Active |
-
----
-
-## 🎨 Visual Identity
-Branding assets can be found under **`/AEON-Branding/`**:
-- `Name_v2.png` - Primary logotype  
-- `V5.png` - Golden seal emblem  
-- `LoadingScreen.png` - Official splash artwork  
-
-These are used across documentation, trailers, and external presentations.
-
----
-
 ## ⚖️ Licensing
 © 2025 **Devin Barrett** - All Rights Reserved.
 
