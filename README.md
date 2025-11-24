@@ -153,7 +153,7 @@ This repository contains *documentation, showcases, and branding assets*.
 The AEON application itself is proprietary software and may not be redistributed, modified, or reverse-engineered.
 
 For cultural licensing, academic partnerships, or support:
-[Email](aeonlinguistic.engine@gmail.com)
+**Email:** [](aeonlinguistic.engine@gmail.com)
 
 ---
 
