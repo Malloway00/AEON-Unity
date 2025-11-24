@@ -1,5 +1,4 @@
 # Æ.O.N: The Analytical Engine of Origin and Narrative
-**Linguistic Simulation Engine • Unity 6 • AI-Integrated Platform**  
 
 **ÆON is a hybrid linguistic simulation environment combining academic-grade language evolution modeling, creative worldbuilding tools, and a fully integrated offline AI ecosystem.**  
 This repository serves as a **showcase, documentation hub, and branding archive** for AEON.  
