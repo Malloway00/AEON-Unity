@@ -1,1 +1,1 @@
-<img src="Images/ModernEnglish.png"/>
+<img src="ModernEnglish.png"/>
