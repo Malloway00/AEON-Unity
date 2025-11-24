@@ -168,5 +168,5 @@ Creator of the Æ.O.N. project
 ## 🔗 Useful Links
 - **Æ.O.N. on itch.io**: [Æ.O.N. - The Analytical Engine of Origin and Narrative](https://malloway.itch.io/aeon)
 - **Showcases**: [AEON Showcases](AEON-Showcases)
-- **Official Discord Channel** [AEON Linguistic Engine]([https://www.youtube.com/@OfficialAeonEngine](https://discord.gg/vCQEyC8CWm))
+- **Official Discord Channel** [AEON Linguistic Engine](https://discord.gg/vCQEyC8CWm)
 - **Official Youtube Channel** [Æ.O.N Engine](https://www.youtube.com/@OfficialAeonEngine)
