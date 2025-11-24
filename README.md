@@ -18,8 +18,6 @@ It blends:
 - **Academic linguistic methodology** (sound change, grammar drift, proto-form reconstruction)
 - **Speculative simulation** (Martian English, feline semiotic drift, ritual fossilization)
 
----
-
 Æ.O.N functions as:
 
 - A **research tool**  
