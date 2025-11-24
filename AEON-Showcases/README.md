@@ -34,7 +34,7 @@ _Reconstruction of a fragmented Alaskan-Yupik language cluster_
 - Ergative alignment glossed examples  
 - Maritime-cultural lexical retention  
 - Preservation of archaic ceremonial features  
-:contentReference[oaicite:0]{index=0}
+[Read the log here](AEON-Showcases/v1.5/Academic/Beringian_Lineage_Recovery.txt)
 
 ---
 
@@ -45,7 +45,7 @@ _Cross-continental cognate plausibility across 10,000+ years_
 - Regular correspondence patterns  
 - Morphological parallels (prefixing, classifiers, templates)  
 - Chance resemblance vs true inheritance modeling  
-:contentReference[oaicite:1]{index=1}
+[Read the log here](AEON-Showcases/v1.5/Academic/Dene–Yeniseian_Reintegration_Test.txt)
 
 ---
 
@@ -56,7 +56,7 @@ _Reverse-time divergence from Irish → Scottish → Manx → Nova Scotia Gaelic
 - 5+ glossed comparative examples  
 - Trauma-driven semantic drift  
 - Mutual intelligibility estimates by century  
-:contentReference[oaicite:2]{index=2}
+[Read the log here](AEON-Showcases/v1.5/Academic/AEON-Showcases/v1.5/Academic/Gaelic_Diaspora_Backtrace.txt)
 
 ---
 
@@ -67,7 +67,7 @@ _Diachronic evolution across 10 Indo-European daughter branches_
 - Sound law scoring (Grimm’s, Grassmann’s, devoicing chains)  
 - Example phrases across languages  
 - Semantic drift: *carry → bear → bring → give birth*  
-:contentReference[oaicite:3]{index=3}
+[Read the log here](AEON-Showcases/v1.5/Academic/Proto-Indo-European_Root_Study.txt)
 
 ---
 
@@ -80,7 +80,7 @@ _Emergence of a cat–human hybrid pidgin under cognitive uplift_
 - Gesture-linked morphology  
 - Affection markers, territory language, temporal cycles  
 - Full phonological inventory (fricatives, trills, purr-phonation)  
-:contentReference[oaicite:4]{index=4}
+[Read the log here](AEON-Showcases/v1.5/Fiction/Felis_domesticus_Semiotic_Drift_(2025–3000).txt)
 
 ---
 
@@ -91,7 +91,7 @@ _Trajectory of Martian-born English under dome acoustics + low gravity_
 - Lexicon: dustfall, breathlock, redborn, greenshift  
 - Generational identity markers  
 - Naming conventions + pronoun drift  
-:contentReference[oaicite:5]{index=5}
+[Read the log here](AEON-Showcases/v1.5/Fiction/Martian_Dialect_Evolution_(2025–2175).txt)
 
 ---
 
@@ -102,7 +102,7 @@ _Reconstruction of a 2000-year-old ceremonial chant preserved only phonetically_
 - Morphological glossing + cosmological meaning  
 - Cross-family cognate matrix (PTB, PAA, PIE, Kiranti, Salishan)  
 - Ritual context analysis (winter solstice, eastern gate rites)  
-:contentReference[oaicite:6]{index=6}
+[Read the log here](AEON-Showcases/v1.5/Fiction/Ritual_Backtrace_Simulation.txt)
 
 ---
 
