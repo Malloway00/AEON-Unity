@@ -123,21 +123,13 @@ Get the full application:
 
 ---
 
-## ⚖️ Licensing
-© 2025 **Devin Barrett** - All Rights Reserved.
-
-This repository contains *documentation, showcases, and branding assets*.  
-The AEON application itself is proprietary software and may not be redistributed, modified, or reverse-engineered.
-
-For cultural licensing, academic partnerships, or support:
-**Email:** aeonlinguistic.engine@gmail.com
-
----
-
 ## 🪶 Author
 **Devin Barrett**
 Creator - of Æ.O.N. 
 > *“Built to Remember.”*
+
+For cultural licensing, academic partnerships, or support:
+**Email:** aeonlinguistic.engine@gmail.com
 
 ---
 
