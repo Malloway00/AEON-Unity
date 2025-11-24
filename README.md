@@ -158,9 +158,8 @@ For cultural licensing, academic partnerships, or support:
 ---
 
 ## 🪶 Author
-**Devin Barrett**  
-Developer • Linguistic Systems Designer • AI Integration Engineer  
-Creator of the Æ.O.N. project  
+**Devin Barrett**
+Creator of Æ.O.N. 
 > *“Built to Remember.”*
 
 ---
