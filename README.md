@@ -159,7 +159,7 @@ For cultural licensing, academic partnerships, or support:
 
 ## 🪶 Author
 **Devin Barrett**
-Creator of Æ.O.N. 
+Creator - of Æ.O.N. 
 > *“Built to Remember.”*
 
 ---
