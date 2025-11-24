@@ -56,7 +56,7 @@ _Reverse-time divergence from Irish → Scottish → Manx → Nova Scotia Gaelic
 - 5+ glossed comparative examples  
 - Trauma-driven semantic drift  
 - Mutual intelligibility estimates by century  
-[Read the log here](v1.5/Academic/v1.5/Academic/Gaelic_Diaspora_Backtrace.txt)
+[Read the log here](v1.5/Academic/Gaelic_Diaspora_Backtrace.txt)
 
 ---
 
