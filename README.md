@@ -11,8 +11,8 @@ The full application is available on itch.io → [Æ.O.N: The Analytical Engine 
 
 ---
 
-## 🧭 What is ÆON?
-ÆON is a **linguistic simulation and reconstruction engine** designed to model how languages evolve, fracture, and preserve memory across generations in both **real historical contexts** and **speculative futures**.
+## 🧭 What is Æ.O.N?
+Æ.O.N is a **linguistic simulation and reconstruction engine** designed to model how languages evolve, fracture, and preserve memory across generations in both **real historical contexts** and **speculative futures**.
 
 It blends:
 
@@ -20,7 +20,7 @@ It blends:
 - **Academic linguistic methodology** (sound change, grammar drift, proto-form reconstruction)
 - **Speculative simulation** (Martian English, feline semiotic drift, ritual fossilization)
 
-ÆON functions as:
+Æ.O.N functions as:
 
 - A **research tool**  
 - A **creative worldbuilding platform**  
@@ -30,7 +30,7 @@ It blends:
 ---
 
 ## ⚙️ Architecture Overview
-ÆON uses a modular engine governed by a **Symbolic Router** that dynamically activates relevant subsystems based on user input.
+Æ.O.N uses a modular engine governed by a **Symbolic Router** that dynamically activates relevant subsystems based on user input.
 
 ### 🧩 Core Linguistic Modules
 | Module | Purpose |
@@ -56,12 +56,12 @@ It blends:
 | **Field Linguist Validation Checkliste** | Provides a field-linguist-style validation pass: phonemic, semantic, syntactic, prosodic checks. |
 | **Corpus Match Seed Set** | Provides pre-mapped proto-root → corpus-attested cognate anchors for reconstruction grounding. |
 
-All 20 modules are fully integrated into ÆON’s runtime environment.
+All 20 modules are fully integrated into Æ.O.N’s runtime environment.
 
 ---
 
 ## 🧠 AI Integration
-ÆON incorporates **both offline and online AI systems**:
+Æ.O.N incorporates **both offline and online AI systems**:
 
 - **Local LLM Backend** (KoboldCPP, `.gguf`)  
 - **Stable Diffusion Backend** (local Python environment)
@@ -70,7 +70,7 @@ All 20 modules are fully integrated into ÆON’s runtime environment.
 - **Automatic Module Routing** using tag-based context detection  
 - **Thread-Safe Subprocess Manager** for all AI tasks  
 
-ÆON includes a complete offline stack so users can run everything **without internet access**.
+Æ.O.N includes a complete offline stack so users can run everything **without internet access**.
 
 ---
 
@@ -90,17 +90,17 @@ Documents/AEON Logs/{yyyyMMdd}/
 
 ---
 
-## 📚 AEON Showcases (Academic + Speculative Studies)
-ÆON includes a curated library of **linguistic case studies** demonstrating real and imagined evolution:
+## 📚 Æ.O.N Showcases (Academic + Speculative Studies)
+Æ.O.N includes a curated library of **linguistic case studies** demonstrating real and imagined evolution:
 
-**[AEON Showcases](AEON-Showcases)**
+**[Æ.O.N Showcases](AEON-Showcases)**
 
 ---
 
 ## 💵 Pricing Model
 ÆON follows an ethical, value-based model intended to balance accessibility and sustainability:
 
-### 🟢 Æ.O.N. Complete: $30 (One-Time)
+### 🟢 Æ.O.N: $30 (One-Time)
 Full application access, all modules, all AI integrations, lifetime updates.
 
 ### 🟤 Indigenous & Tribal Access: Free
