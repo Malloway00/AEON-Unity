@@ -1,15 +1,13 @@
+<img src="V6 Seal.png"/>
+
+---
+
 # Æ.O.N: The Analytical Engine of Origin and Narrative
 
 **Æ.O.N is a hybrid linguistic simulation environment combining academic-grade language evolution modeling, creative worldbuilding tools, and a fully integrated offline AI ecosystem.**  
 This repository serves as a **showcase, documentation hub, and branding archive** for AEON.
 
 The full application is available on itch.io → [Æ.O.N: The Analytical Engine of Origin and Narrative](https://malloway.itch.io/aeon)
-
----
-
-<img src="V6 Seal.png"/>
-
----
 
 ## 🧭 What is Æ.O.N?
 Æ.O.N is a **linguistic simulation and reconstruction engine** designed to model how languages evolve, fracture, and preserve memory across generations in both **real historical contexts** and **speculative futures**.
@@ -19,6 +17,8 @@ It blends:
 - **Professional software engineering** (Unity 6, Python, KoboldCPP, Stable Diffusion, Piper tts)
 - **Academic linguistic methodology** (sound change, grammar drift, proto-form reconstruction)
 - **Speculative simulation** (Martian English, feline semiotic drift, ritual fossilization)
+
+---
 
 Æ.O.N functions as:
 
