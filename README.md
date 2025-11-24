@@ -10,10 +10,7 @@ The full application is available on itch.io → [Æ.O.N: The Analytical Engine 
 ## 🎬 Quick Preview
 <img src="AEON-Showcases/v1.4.5/ImageShowcase.png"/>
 
-*A glimpse of ÆON’s simulation interface and symbolic routing engine.*
-
-Explore full case studies and output examples in:  
-👉 **[AEON Showcases](AEON-Showcases)**
+*A glimpse of ÆON’s interface.*
 
 ---
 
