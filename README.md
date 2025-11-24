@@ -110,7 +110,7 @@ Full application access, all modules, all AI integrations, lifetime updates.
 Full access for heritage preservation and revitalization projects.
 
 Get the full application:  
-👉 [Æ.O.N: The Analytical Engine of Origin and Narrative](https://malloway.itch.io/aeon)
+[Æ.O.N: The Analytical Engine of Origin and Narrative](https://malloway.itch.io/aeon)
 
 ---
 
@@ -168,4 +168,5 @@ Creator of the Æ.O.N. project
 ## 🔗 Useful Links
 - **Æ.O.N. on itch.io**: [Æ.O.N. - The Analytical Engine of Origin and Narrative](https://malloway.itch.io/aeon)
 - **Showcases**: [AEON Showcases](AEON-Showcases)
+- **Official Discord Channel** [AEON Linguistic Engine]([https://www.youtube.com/@OfficialAeonEngine](https://discord.gg/vCQEyC8CWm))
 - **Official Youtube Channel** [Æ.O.N Engine](https://www.youtube.com/@OfficialAeonEngine)
