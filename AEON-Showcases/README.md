@@ -34,7 +34,7 @@ _Reconstruction of a fragmented Alaskan-Yupik language cluster_
 - Ergative alignment glossed examples  
 - Maritime-cultural lexical retention  
 - Preservation of archaic ceremonial features  
-[Read the log here](AEON-Showcases/v1.5/Academic/Beringian_Lineage_Recovery.txt)
+[Read the log here](v1.5/Academic/Beringian_Lineage_Recovery.txt)
 
 ---
 
