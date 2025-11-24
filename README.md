@@ -8,7 +8,7 @@ The full application is available on itch.io → [Æ.O.N: The Analytical Engine 
 ---
 
 ## 🎬 Quick Preview
-<img src="AEON-Showcases/v1.4.5/ImageShowcase.png"/>
+<img src="AEON-Showcases/v1.4.5/Images/ImagePreview.png"/>
 
 *A glimpse of ÆON’s interface.*
 
