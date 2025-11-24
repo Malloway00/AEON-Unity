@@ -113,8 +113,7 @@ Get the full application:
 - **Cultural Preservation:** Language recovery tools accessible without gatekeeping.  
 - **Academic Integrity:** Transparent processes, reproducible simulations.  
 - **Creative Freedom:** Support for fictional, extraterrestrial, and speculative linguistics.  
-- **Ethical AI:** Offline-first architecture respecting privacy and sovereignty.  
-- **Technical Stewardship:** Core systems are protected to maintain integrity.
+- **Ethical AI:** Offline capable architecture respecting privacy and sovereignty.  
 
 ---
 
