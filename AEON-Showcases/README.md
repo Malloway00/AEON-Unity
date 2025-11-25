@@ -17,8 +17,7 @@ All showcases include:
 ## 📂 Directory Structure
 ```
 AEON-Showcases/
- ├─ v1.4.5/
- ├─ v1.5/
+ ├─ vX.X.X/
  └─ Case_Template.md
 ```
 Each version folder may contain updated case studies, images, logs, and other exported files from AEON.
