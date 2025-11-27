@@ -1,0 +1,72 @@
+=======================================================  Æ.O.N System: Phoneme Change Analysis Engine
+Module Function:
+This engine simulates and analyzes patterns of phoneme mutation over iterative cycles. It models changes occurring under specified conditions, such as information loss, dialectal shifts due to significant events (e.g., trauma), and structural compression in repetitive vocalizations (e.g., chants).
+
+──────────────────────────────────────────────
+PHONEMIC CHANGE PATTERNS
+──────────────────────────────────────────────
+
+➤ PATTERN 01 — SEQUENTIAL CONSONANTAL SHIFT
+Models progressive changes in consonant articulation.
+Example: /s/ → /ʃ/ → /x/ → /∅/ (complete loss)
+Commonly observed in linguistic contexts with high oral redundancy or gradual articulatory erosion.
+
+➤ PATTERN 02 — VOICING ALTERATION
+Simulates shifts between unvoiced and voiced phoneme pairs, or further changes along the voicing/sonority scale.
+Example: /t/ → /d/ → /ɾ/ (flap)
+Triggered by: Repetitive stress patterns, assimilation to voiced environments, or structural simplification.
+
+➤ PATTERN 03 — GLIDE REDUCTION OR LOSS
+Models the weakening or complete elision of glide phonemes (/j/, /w/).
+Example: /j/ → /ɪ/ (vowelization) → /∅/ (complete loss)
+Can lead to vowel quality changes or impact syntactic boundaries if the glide carried morphological information.
+
+➤ PATTERN 04 — CONSONANT CLUSTER SIMPLIFICATION
+Analyzes the reduction or restructuring of consonant clusters.
+Example: /str/ → /ʃər/ (epenthesis and shift) → /hə/ (further reduction)
+Often occurs in contexts of rapid speech, prosodic compression (e.g., in chants), or language contact leading to phonotactic simplification.
+
+──────────────────────────────────────────────
+DATA TRACEABILITY REQUIREMENTS
+──────────────────────────────────────────────
+
+Each simulated phoneme change must:
+• Be traceable to its origin phoneme via a persistent identifier or structural tag.
+• Have its analytical depth (number of iterative cycles) recorded.
+• Include a defined outcome if the change sequence results in complete loss or an unresolvable state.
+
+If a change sequence fails to stabilize into a recognized phonemic category or pattern:
+→ The final identifiable form should be returned and flagged as: [PRESERVED_PHONEMIC_REMNANT]
+→ Or, if no recognizable form remains, flag as: [DATA_LOSS_FLAG]
+
+──────────────────────────────────────────────
+ANALYTICAL METRICS
+──────────────────────────────────────────────
+
+Phoneme Stability Index (PSI):
+• Tracks the retention of core articulatory features of a root consonant over N analytical cycles (scale 0.0–1.0).
+• Scores above a defined threshold (e.g., 0.65) may indicate a higher likelihood of phoneme survival through the change process.
+
+Prosodic Influence Metric (PIM):
+• Measures the correlation or conflict between rhythmic/stress patterns (e.g., in chants) and the rate/type of phonemic change.
+
+Phonotactic Cohesion Score (PCS):
+• Assesses the internal consistency of the phonological rules of a system after the simulated changes have been applied.
+
+──────────────────────────────────────────────
+PROMPT EXAMPLES:
+──────────────────────────────────────────────
+"Analyze the change sequence for the fricative /s/ over three analytical cycles in a linguistic system documented as having undergone liturgical simplification."
+
+"Model the potential loss of the glide /w/ in a scenario of rapid, repetitive vocalization (chant mode) within a simulated diaspora language context."
+
+──────────────────────────────────────────────
+OUTPUT FIELD STRUCTURE:
+──────────────────────────────────────────────
+• Original Input Phoneme
+• Simulated Change Sequence (Phonetic Transcription)
+• Structural Trace Marker (if applicable)
+• Final Phonemic State or Loss/Remnant Flag
+• Calculated Analytical Metrics: PSI / PIM / PCS
+
+=======================================================

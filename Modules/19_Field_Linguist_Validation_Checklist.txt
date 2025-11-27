@@ -1,0 +1,72 @@
+==================================================================
+ Æ.O.N System: Field Linguist Validation Checklist
+==================================================================
+
+Purpose:
+--------
+To assist field linguists in reviewing and validating  Æ.O.N-simulated linguistic outputs for use in academic, comparative, or documentation contexts.
+
+Checklist:
+----------
+
+1. INITIAL PHONEMIC FORM REVIEW
+   -----------------------------
+   □ Confirm IPA transcription aligns with simulation output.
+   □ Evaluate presence of regional phonotactic constraints.
+   □ Note any irregular phoneme cluster patterns or drift anomalies.
+
+2. MORPHOLOGICAL STRUCTURE VALIDATION
+   -----------------------------------
+   □ Break down simulated forms into morphemes using known affix inventories.
+   □ Check for plausibility of derivational or inflectional processes.
+   □ Flag unknown morphemes for further review or gloss as [INACTIVE_FORM].
+
+3. SEMANTIC ALIGNMENT CHECK
+   -------------------------
+   □ Evaluate if glossed meanings align with reconstructed forms.
+   □ Cross-check semantic domains against known lexicons.
+   □ Assign SC (Semantic Coherence) score based on plausibility (0.0–1.0).
+
+4. SYNTAX AND STRUCTURAL REVIEW
+   -----------------------------
+   □ Identify any syntactic shifts (e.g., subordination collapse, word order change).
+   □ Check for consistent alignment with known typological patterns.
+   □ Tag syntactic outputs with: [ORDER_INVERSION], [STRUCTURAL_REORGANIZATION], etc.
+
+5. PROSODIC AND CHANT CONTEXT CHECK
+   ---------------------------------
+   □ Determine if prosodic features (stress, meter) affect form evolution.
+   □ Validate use of chant-tagged outputs: [RHYTHMIC_FRAGMENT], [PERSISTENT_CADENCE].
+   □ Note tonal contour shifts in tonal language contexts.
+
+6. RITUAL / SYMBOLIC FUNCTIONALITY
+   --------------------------------
+   □ Evaluate if preserved forms are consistent with ritual use cases.
+   □ Confirm symbolic tags: [SYMBOLIC_ANCHOR], [PRESERVED_BLOCK], [PROTECTED_SEAL].
+   □ Annotate any known glyph associations or chant anchors.
+
+7. EXPORT FORMAT SELECTION
+   ------------------------
+   □ Choose `.adata` for full technical export (includes metrics and tags).
+   □ Use `.narrative` for descriptive summaries suited to documentation.
+   □ Enable [SIMPLIFIED_EXPORT_MODE] for obscured outputs or sensitive data.
+
+8. CORPUS VALIDATION CROSS-CHECK
+   ------------------------------
+   □ Check for corpus matches using the Generic Corpus Validation Framework.
+   □ Review [CVC_CONFIRMED_MATCH] or [CVC_PARTIAL_ECHO] tags.
+   □ Log any manual validation decisions with [CVC_OVERRIDE].
+
+9. ETHICAL AND CONTEXTUAL REVIEW
+   ------------------------------
+   □ Verify the source cultural context is respected in analysis.
+   □ Avoid speculative glossing for sacred or protected terms without verification.
+   □ Use placeholder tags: [PROTECTED_DATA], [UNKNOWN_DATA_GAP] as needed.
+
+10. FINAL DOCUMENTATION
+    --------------------
+    □ Archive validated simulations with annotations and field notes.
+    □ Record version number of  Æ.O.N simulation engine and module references.
+    □ Include citation-ready corpus tags and match logs if present.
+
+==================================================================

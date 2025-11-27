@@ -1,0 +1,68 @@
+=======================================================  Æ.O.N System: Analytical Cycle Engine Ruleset
+This document defines the operational rules governing the  Æ.O.N system's analytical processes, including transformation depth, change sequence validation, iterative process structure, and the tracking of data modifications.
+
+──────────────────────────────────────────────
+CORE ANALYTICAL PRINCIPLES
+──────────────────────────────────────────────
+
+➤ PRINCIPLE 01 — PROCESS COMPLETION OR TERMINATION
+An analytical process is considered incomplete or invalid if it does not either:
+• Conclude by returning to a modified version of the initial data state or a defined cyclical endpoint (iterative completion).
+• Terminate due to predefined conditions, with the process state and reasons for termination clearly flagged (process interruption).
+
+➤ PRINCIPLE 02 — PROTECTED DATA INTEGRITY
+If an analysis defines a "core data element" or "protected zone" (e.g., a specific identifier, title, or foundational data point), this element must not be altered or overwritten by standard processes.
+→ Modification of such protected data is only permissible if explicitly allowed by the input parameters or a specific override protocol.
+
+➤ PRINCIPLE 03 — DATA ELEMENT TRACEABILITY
+Each iteration or stage of an analytical process must ensure that subsequent states retain at least one identifiable and traceable component from the preceding state, such as:
+• A recognizable morphological or structural remnant.
+• A persistent symbolic marker or tag.
+• A consistent pattern or quantifiable characteristic (e.g., in rhythmic or sequential data).
+
+➤ PRINCIPLE 04 — EXPLICIT PROCESS DEPTH AND SCOPE
+Each analytical prompt or process initiation must clearly define:
+• The number of iterations or analytical cycles to be performed.
+• The scope or extent of change to be modeled (e.g., representing generational shifts or defined transformation stages).
+• A clear termination condition, endpoint for the analysis, or a condition for cyclical repetition.
+
+➤ PRINCIPLE 05 — CONTROLLED DATA DEGRADATION (ENTROPIC PROCESSES)
+Specific analytical modes may simulate intentional data decay or degradation. Such processes must be explicitly invoked and flagged in the input. (Refer to Document: 14_Controlled_Degradation_Protocols.txt for details).
+Required flags:
+→ [DEGRADATION_ANALYSIS_ENABLED]
+→ [PRESERVED_REMNANTS_EXPECTED] (if applicable, to identify elements resistant to decay)
+
+➤ PRINCIPLE 06 — CONSISTENT REFERENCE POINT
+Throughout an analytical cycle, at least one constant data element or reference point (e.g., a specific symbol, tag, pronoun, or initial root element) must be maintained to anchor the process across different stages or layers of analysis.
+
+➤ PRINCIPLE 07 — PARALLEL PATH ANALYSIS
+If an analysis involves parallel processing paths or divergent data evolution:
+• The common origin point of these paths must be clearly identifiable.
+• Divergence should typically occur after a defined structural change, decision point, or data 'fracture'.
+• Paths may optionally be allowed to merge or reconverge if a common anchor point or predefined similarity threshold is met, flagged as [MERGE_CONDITION_MET].
+
+➤ PRINCIPLE 08 — PROCESSING BOUNDARY VIOLATION
+If an analytical cycle exceeds predefined limits of data coherence or transformation (i.e., the data becomes uninterpretably altered beyond set thresholds):
+→ The process stage must be marked with: [ANALYSIS_LIMIT_EXCEEDED]
+→ The system should output the last stable or coherent data state achieved before the boundary violation.
+
+──────────────────────────────────────────────
+PERMITTED TRANSFORMATION TYPES FOR ANALYSIS
+──────────────────────────────────────────────
+• Phonemic/Phonological Change Analysis
+• Morphological Structure Degradation/Evolution
+• Syntactic Loop Analysis and Structural Collapse
+• Symbolic Data Preservation/Fossilization Analysis
+• Data Suppression Impact Analysis (e.g., Taboo Effects)
+• Event-Driven Divergence Modeling (e.g., Trauma-Induced Linguistic Forking)
+• Analysis of Structural Erosion in Repetitive Sequences (e.g., Ritual Chant Data)
+
+──────────────────────────────────────────────
+NOTES:
+──────────────────────────────────────────────
+Analytical cycles that do not demonstrate iterative progression, data transformation, or the identification of preserved elements are considered invalid or incomplete.
+Processes must result in identifiable outcomes: data survival (preservation), transformation (change/drift), or degradation (collapse/loss with identifiable remnants).
+
+Maintaining the integrity of the analytical process according to these rules is fundamental to the system's operation.
+
+=======================================================

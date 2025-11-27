@@ -1,0 +1,63 @@
+======================================================  Æ.O.N System: Simulation Modes and Prompt Guidelines
+This document outlines the supported simulation modes and input prompt structures for the  Æ.O.N (Analysis Engine for Origin and Narrative) system. Each simulation mode operates based on defined analytical cycles, tracks changes in data elements, and identifies preserved or altered components.
+
+──────────────────────────────────────────────
+SIMULATION MODES
+──────────────────────────────────────────────
+
+▶ MODE 01 — PHONEMIC CHANGE SEQUENCE
+Analyzes iterative phonemic changes based on defined phonetic environments or stress patterns. Outputs include identified phonemic remnants and markers for preserved forms.
+
+▶ MODE 02 — MORPHOLOGICAL EVOLUTION ANALYSIS
+Simulates changes in affixes and roots over iterative cycles, considering structural complexity. Requires a predefined mapping of morphemes to analytical tags.
+
+▶ MODE 03 — SYNTACTIC RESTRUCTURING ANALYSIS
+Models changes in clause structure, such as loss of subordination or word order inversion, over iterative analytical cycles. Produces structural syntax markers.
+
+▶ MODE 04 — TERM SUPPRESSION IMPACT ANALYSIS
+Analyzes the effect of term/concept suppression on data preservation. Suppressed items are user-defined (e.g., marked with [SUPPRESSED_TERM]). Generates reports indicating omitted information or data exclusion zones resulting from suppression.
+
+▶ MODE 05 — DIALECTAL DIVERGENCE SIMULATION (EVENT-DRIVEN)
+Simulates dialectal divergence influenced by specified significant societal events or disruptive factors. Divergence points are marked (e.g., {DIVERGENCE_POINT}), and analysis may require input of relevant, predefined metrics (e.g., CRI, SCW – ensure these are defined in supporting documentation if used).
+
+▶ MODE 06 — INFLECTIONAL CHANGE IN RHYTHMIC CONTEXTS
+Analyzes changes in declension or conjugation patterns influenced by alignment with rhythmic or prosodic structures (e.g., in chants or poetry). Assesses how such patterns can alter inflection over time. May require input of relevant, predefined metrics (e.g., RSI, LCRF – ensure these are defined in supporting documentation if used).
+
+▶ MODE 07 — CORPUS-ALIGNED EVOLUTION ANALYSIS
+Compares simulated data evolution against a provided reference corpus to validate or contextualize changes. Requires specification of the corpus and alignment parameters. (Note: Further details for this mode should be specified if it's a core, active function).
+
+▶ MODE 08 — FICTIONAL LANGUAGE EVOLUTION SIMULATION
+Simulates the evolution of user-defined speculative or fictional languages, applying established principles of linguistic change. Outputs are based on these principles but are not intended for academic research or as representations of real-world linguistic phenomena.
+Tagged: [FICTION MODE]
+→ Utilizes established models of linguistic change and preservation.
+→ All outputs must include the disclaimer: “This output is generated for fictional world-building or creative purposes only and is not valid for academic linguistic or ethnographic simulation.”
+Example Prompt for this mode:
+"Simulate the linguistic evolution of a fictional mountain-dwelling culture's language, characterized by exclusively descending pitch patterns in vocalizations. Activate [FICTION MODE]. Apply standard principles of phonological and morphological change."
+
+──────────────────────────────────────────────
+PROMPT FORMAT GUIDELINES
+──────────────────────────────────────────────
+
+Required elements for analytical prompts:
+• Type of analysis/simulation (e.g., phonemic change, morphological evolution, syntactic restructuring).
+• Number of analytical cycles or iterations (e.g., generation count).
+• Specific contextual conditions or input data (e.g., societal disruption event details, terms for suppression, presence of specific structural markers, initial linguistic data).
+
+✘ Invalid Analytical Prompt Example:
+"Make a cool language." → Rejected. Lacks specific analytical parameters and is not a valid analytical request. For creative generation, use [FICTION MODE] with defined linguistic characteristics and evolutionary principles.
+
+✔ Valid Analytical Prompt Example:
+"Analyze the evolution of the suffix '-ra' in a dialect associated with rhythmic vocalizations (chant-based) over 3 analytical cycles, identifying preserved forms and common changes."
+
+✔ Fictional Language Evolution Prompt Example:
+"Input Data: [User provides basic vocabulary, phonology, and grammar for a constructed language]. Simulate its potential linguistic evolution over 5 generations, applying principles of sound change and grammatical simplification. Activate [FICTION MODE]. The output is for creative purposes and not for academic linguistic analysis."
+
+──────────────────────────────────────────────
+NOTES:
+──────────────────────────────────────────────
+• All simulation prompts are processed according to the  Æ.O.N Data Integrity and Analytical Framework v1.0 (see Document: 01_SYSTEM_LICENSE_AND_OPERATING_PROTOCOLS).
+• Output data must be formatted according to the specifications in "Document: 10_Output_Format_and_Data_Structure.txt" (or the relevant, correctly named output specification file).
+
+Outputs from  Æ.O.N simulations represent analytical models of information evolution. When [FICTION MODE] is used, outputs are illustrative examples based on these models for creative application.
+
+======================================================
