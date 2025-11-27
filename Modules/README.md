@@ -2,7 +2,7 @@
 
 ### Æ.O.N Public Module Documentation
 
-*This area contains 5 of 20 linguistic modules that power the Æ.O.N framework.
+*This area contains 4 of 20 linguistic modules that power the Æ.O.N framework.
 These modules demonstrate the methodology and validation approach.*
 
 **Full module access available to academics and linguists upon request for 
