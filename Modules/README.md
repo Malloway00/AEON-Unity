@@ -11,11 +11,10 @@ review purposes.**
 **Contact:** aeonlinguistic.engine@gmail.com
 
 **Modules included**:
-- 01: System architecture and operating protocols
-- 02: Simulation modes and analytical approaches
-- 03: Core analytical cycle engine rules
-- 04: Phoneme change pattern analysis (example methodology)
-- 19: Field linguist validation checklist
+- Simulation modes and analytical approaches
+- Core analytical cycle engine rules
+- Phoneme change pattern analysis (example methodology)
+- Field linguist validation checklist
 
 *Additional modules (08, 12-18, 20) contain proprietary implementation 
 details, curated datasets, and culturally sensitive frameworks.*
