@@ -16,5 +16,5 @@ review purposes.**
 - Phoneme change pattern analysis (example methodology)
 - Field linguist validation checklist
 
-*Additional modules (08, 12-18, 20) contain proprietary implementation 
+*Additional modules contain proprietary implementation 
 details, curated datasets, and culturally sensitive frameworks.*
