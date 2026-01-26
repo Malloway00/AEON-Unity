@@ -51,7 +51,7 @@ It blends:
 | **Root Fossil Reintegration Engine** | Performs post-simulation proto-form validation using CRI/MV/SC metrics. |
 | **Real-Time Corpus Integration Engine** | Performs API-level corpus checks and matches simulated roots to attested data. |
 | **Generic Corpus Validation Framework** | Applies cross-linguistic corpus scans and typological benchmarks for plausibility. |
-| **Field Linguist Validation Checkliste** | Provides a field-linguist-style validation pass: phonemic, semantic, syntactic, prosodic checks. |
+| **Field Linguist Validation Checklist** | Provides a field-linguist-style validation pass: phonemic, semantic, syntactic, prosodic checks. |
 | **Corpus Match Seed Set** | Provides pre-mapped proto-root → corpus-attested cognate anchors for reconstruction grounding. |
 
 All 20 modules are fully integrated into Æ.O.N’s runtime environment.
