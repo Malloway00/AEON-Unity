@@ -90,12 +90,5 @@ Documents/AEON Logs/[yyyyMMdd]/logs/[CaseName]_Backtrace.txt
 
 ---
 
-## 🪶 Notes & Future Work
-- [Example: Re-run using **Trauma Drift** to model colonial impact]  
-- [Example: Test same root under **Multi-Contact Drift** with neighboring dialects]  
-- [Example: Incorporate **Prosody & Meter System** to assess rhythmic fossilization]  
-
----
-
 > *“Languages remember us when we remember them.”*  
 > — AEON System Log, v1.5
