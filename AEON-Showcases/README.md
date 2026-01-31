@@ -33,7 +33,7 @@ _Reconstruction of a fragmented Alaskan-Yupik language cluster_
 - Ergative alignment glossed examples  
 - Maritime-cultural lexical retention  
 - Preservation of archaic ceremonial features  
-[Read the log here](v1.5/Case-Studies/Academic/Beringian_Lineage_Recovery.txt)
+[Read the log here](v1.5.3/Case-Studies/Academic/Beringian_Lineage_Recovery/Beringian_Lineage_Recovery.md)
 
 ---
 
@@ -44,7 +44,7 @@ _Cross-continental cognate plausibility across 10,000+ years_
 - Regular correspondence patterns  
 - Morphological parallels (prefixing, classifiers, templates)  
 - Chance resemblance vs true inheritance modeling  
-[Read the log here](v1.5/Case-Studies/Academic/Dene–Yeniseian_Reintegration_Test.txt)
+[Read the log here](v1.5.3/Case-Studies/Academic/Dene–Yeniseian_Reintegration/Dene_Yeniseian_Reintegration_Test.md)
 
 ---
 
@@ -55,7 +55,7 @@ _Reverse-time divergence from Irish → Scottish → Manx → Nova Scotia Gaelic
 - 5+ glossed comparative examples  
 - Trauma-driven semantic drift  
 - Mutual intelligibility estimates by century  
-[Read the log here](v1.5/Case-Studies/Academic/Gaelic_Diaspora_Backtrace.txt)
+[Read the log here](v1.5.3/Case-Studies/Academic/Gaelic_Diaspora_Backtrace/Gaelic_Diaspora_Backtrace.md)
 
 ---
 
@@ -66,7 +66,7 @@ _Diachronic evolution across 10 Indo-European daughter branches_
 - Sound law scoring (Grimm’s, Grassmann’s, devoicing chains)  
 - Example phrases across languages  
 - Semantic drift: *carry → bear → bring → give birth*  
-[Read the log here](v1.5/Case-Studies/Academic/Proto-Indo-European_Root_Study.txt)
+[Read the log here](v1.5.3/Case-Studies/Academic/Proto-Indo-European_Root_Study/Proto-Indo-European_Root_Study.md)
 
 ---
 
@@ -79,7 +79,7 @@ _Emergence of a cat–human hybrid pidgin under cognitive uplift_
 - Gesture-linked morphology  
 - Affection markers, territory language, temporal cycles  
 - Full phonological inventory (fricatives, trills, purr-phonation)  
-[Read the log here](v1.5/Case-Studies/Fiction/Felis_domesticus_Semiotic_Drift_(2025–3000).txt)
+[Read the log here](v1.5.3/Case-Studies/Fiction/Felis_domesticus_Semiotic_Drift_(2025–3000)/Felis_domesticus_Semiotic_Drift.md)
 
 ---
 
@@ -90,7 +90,7 @@ _Trajectory of Martian-born English under dome acoustics + low gravity_
 - Lexicon: dustfall, breathlock, redborn, greenshift  
 - Generational identity markers  
 - Naming conventions + pronoun drift  
-[Read the log here](v1.5/Case-Studies/Fiction/Martian_Dialect_Evolution_(2025–2175).txt)
+[Read the log here](v1.5.3/Case-Studies/Fiction/Martian_Dialect_Evolution_(2025–2175)/Martian_Dialect_Evolution.md)
 
 ---
 
@@ -101,7 +101,7 @@ _Reconstruction of a 2000-year-old ceremonial chant preserved only phonetically_
 - Morphological glossing + cosmological meaning  
 - Cross-family cognate matrix (PTB, PAA, PIE, Kiranti, Salishan)  
 - Ritual context analysis (winter solstice, eastern gate rites)  
-[Read the log here](v1.5/Case-Studies/Fiction/Ritual_Backtrace_Simulation.txt)
+[Read the log here](v1.5.3/Case-Studies/Fiction/Ritual_Backtrace_Simulation/Ritual_Backtrace_Simulation.md)
 
 ---
 
